@@ -13,4 +13,6 @@ But if you are familiar with Factfulness you know better than to blindly believe
 
 ## Child Mortality and Birth rates 
 
+![Child_mortality_by_years](child_mortality/child_mortality_by_years.gif)
+
 
