@@ -3,8 +3,10 @@ library(tidyverse)
 library(ggplot2)
 library(readxl)
 
+# get the data here: https://population.un.org/wpp/Download/Standard/MostUsed/
+
 # download the data
-world_data <- read_excel("/home/luisa/Downloads/WPP2022_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT_REV1.xlsx")
+world_data <- read_excel("child_mortality/data/WPP2022_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT_REV1.xlsx")
 glimpse(world_data)
 head(world_data)
 
