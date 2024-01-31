@@ -1,17 +1,12 @@
 # An Update on Factfulness in 2024
 
-I recently started reading the book Factfulness by Hans Rosling, his son Ola Rosling and daughter-in-law Anna Rosling Rönnlund. 
-In case you are not familiar with the book, it focuses on different aspects in which we percieve the world as more negative and hostile than it actually is. 
-We tend to overestimate the number of children dying of hunger, wars being fought or fatalities from natural disasters. At the same time we miss the positive trends happening in the world.
-When asked how many people are lifted out of poverty or how good the access to basic healthcare is, almost all people answer worse than if you just picked answers randomly.
-In short - us humans have a negativity bias when it comes to the state of the world. 
+I recently began reading "Factfulness", written by Hans Rosling, along with his son Ola Rosling and daughter-in-law Anna Rosling Rönnlund. For those unfamiliar, the book sheds light on how we often perceive the world as being more negative and hostile than it truly is. We tend to exaggerate the prevalence of child mortality due to hunger, ongoing wars, and fatalities from natural disasters, while overlooking the positive developments occurring globally. When questioned about the number of people being lifted out of poverty or the improvement in access to basic healthcare, the majority of responses are more pessimistic than if answers were chosen at random. Essentially, we humans are inclined towards a negativity bias regarding the state of the world.
 
-The book uses numbers and graphs to uncover our misjudgments and to show in various examples just how skewed our naive world view is. 
-However, the data used in Factfulness is from 2017 and much has happened in the world since then. 
-Especially with recent corona pandemic it feels like the world is actually reverting back to a darker place.      
-But if you are familiar with Factfulness you know better than to blindly believe your feelings. Thats why I decided to set out and see for myself how our planet developed since good old 2017. 
+Using data, numbers, and graphs, "Factfulness" aims to correct our misconceptions and demonstrate how our simplistic views of the world are often mistaken. However, the data presented in the book dates back to 2017, and a lot has changed since then. With the recent coronavirus pandemic, in particular, it feels like the world is regressing to darker times. Yet, those familiar with "Factfulness" understand the importance of not taking our intuitive feelings as ultimate truth. Therefore i set out to investigate how our planet really has evolved since the year 2017.
 
-## Child Mortality and Birth rates 
+## Child Mortality and Birth Rates 
+
+
 
 ![Child_mortality_by_years](child_mortality/child_mortality_by_years.gif)
 
