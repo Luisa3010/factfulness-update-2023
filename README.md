@@ -11,6 +11,8 @@ The first graph we come across in the book shows with how many children are born
 
 ![Child_mortality_by_years](child_mortality/child_mortality_by_years.gif)
 
+[Source: United Nations, Department of Economic and Social Affairs, Population Division (2022). World Population Prospects 2022, Online Edition]
+
 So in this case it seems like our gut feeling led us astray. There is no sudden drop of the survival rate or increase in children born. But child survival rates might just be something changing slower and the recent developements might just not show their impact quite yet. So lets go on and explore further.  
 (In case you are wondering what the big blob is doing at around 1960 - thats China during the great famine.) 
 
