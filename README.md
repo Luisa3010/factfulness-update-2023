@@ -17,5 +17,9 @@ So in this case it seems like our gut feeling led us astray. There is no sudden 
 (In case you are wondering what the big blob is doing at around 1960 - thats China during the great famine.) 
 
 
+## Girls in Primary School 
+
+![percent_of_girls_finishing_primary_school_combined](low_income_primary_school_girls/percent_of_girls_finishing_primary_school_combined.svg)
+
 
 
