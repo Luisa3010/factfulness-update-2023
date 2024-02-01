@@ -24,7 +24,6 @@ Next lets look at the number of girls finishing primary school in low income cou
 ![percent_of_girls_finishing_primary_school_combined](low_income_primary_school_girls/percent_of_girls_finishing_primary_school_combined.jpg)
 [Source: FREE DATA FROM WORLD BANK VIA GAPMINDER.ORG]
 While in the seventies only one in three girls finished primary school, today the number has doubled to two in three. However the rate of increase has dropped with the 10er years. But even after 2017, the number is still rising. Only the last bump from 2021 to 2022 seems a little worrying. However it is to early to tell if this is just a little dip or the start of a downward trend.  
-![percent_of_girls_finishing_primary_school_combined](low_income_primary_school_girls/percent_of_girls_finishing_primary_school_combined.jpg)
 
 
 
