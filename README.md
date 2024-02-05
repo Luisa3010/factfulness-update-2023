@@ -32,6 +32,6 @@ While in the seventies only one in three girls finished primary school, today th
 
 Moving on to poverty. what percentage of people used to live in poverty. In factfulness: $1.95, but with 2011 money and here $2.15 with 2017 money. 
 
-![poverty headcount](poverty/Percent of people living in Poverty.png)
+![poverty headcount](poverty/percent_of_people_living_in_poverty.png)
 
 
