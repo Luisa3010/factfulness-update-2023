@@ -35,3 +35,12 @@ Moving on to poverty. what percentage of people used to live in poverty. In fact
 ![poverty headcount](poverty/percent_of_people_living_in_poverty.png)
 
 
+## Live Expectancy 
+
+drop with the covid pandemic afterwards back to prior level
+
+![live expectancy at birth](live_expectancy/live_expectancy.png)
+
+
+
+
