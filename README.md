@@ -45,8 +45,7 @@ drop with the covid pandemic afterwards back to prior level
 
 ## GDP
 
-heres a gif
-
+definetly a dip during the covid pandemic, but afterwards right back on track
 
 ![gdp vs live expectancy](GDP/images/GDP_per_capita_dashboard_1990-2021.gif)
 
