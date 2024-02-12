@@ -50,6 +50,9 @@ definetly a dip during the covid pandemic, but afterwards right back on track
 ![gdp vs live expectancy](GDP/images/GDP_per_capita_dashboard_1990-2021.gif)
 
 
+![gdp by country](GDP/images/GDP_by_country.png)
+
+
 
 
 
