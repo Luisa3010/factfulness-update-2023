@@ -1,0 +1,253 @@
+Year,Income_group,Value,Value_interp,Population
+1981,world,43.6,,4520917350
+1982,world,43.2,,4602701335
+1983,world,42.5,,4684875627
+1984,world,41.1,,4766640881
+1985,world,39.7,,4850076923
+1986,world,38.4,,4936006502
+1987,world,37.4,,5024289346
+1988,world,35.7,,5113387878
+1989,world,38.4,,5202582534
+1990,world,37.9,,5293395467
+1991,world,37.5,,5382536929
+1992,world,36.5,,5470164577
+1993,world,35.7,,5556623321
+1994,world,34.4,,5642046034
+1995,world,32.9,,5726736488
+1996,world,31.3,,5811580202
+1997,world,31.1,,5896055962
+1998,world,31.3,,5979726559
+1999,world,30.4,,6062288850
+2000,world,29.3,,6144321462
+2001,world,28.3,,6226348086
+2002,world,26.9,,6308140970
+2003,world,25.6,,6389462496
+2004,world,23.7,,6470924346
+2005,world,21.7,,6552700448
+2006,world,20.9,,6635110367
+2007,world,19.6,,6717567584
+2008,world,18.8,,6801440971
+2009,world,17.9,,6885663352
+2010,world,16.3,,6969985525
+2011,world,14.2,,7054044372
+2012,world,13.2,,7141386257
+2013,world,11.7,,7229303088
+2014,world,11.2,,7317040295
+2015,world,10.8,,7403850164
+2016,world,10.5,,7490415449
+2017,world,9.8,,7576441961
+2018,world,9.2,,7660371127
+2019,world,9.1,,7741774583
+2020,world,9.1,,7820205606
+2021,world,9.1,,7888305693
+2022,world,9.1,,7950946801
+1981,Upper middle income,60.8,,1826264797
+1982,Upper middle income,59.6,,1856685341
+1983,Upper middle income,58.2,,1887379611
+1984,Upper middle income,55,,1917260339
+1985,Upper middle income,52,,1947703067
+1986,Upper middle income,49,,1979647200
+1987,Upper middle income,46.8,,2013192877
+1988,Upper middle income,43.1,,2046961908
+1989,Upper middle income,49.8,,2079533345
+1990,Upper middle income,48.4,,2112908549
+1991,Upper middle income,47.2,,2143327776
+1992,Upper middle income,45.6,,2171692391
+1993,Upper middle income,43.6,,2199172412
+1994,Upper middle income,40.2,,2226532163
+1995,Upper middle income,37.6,,2253019846
+1996,Upper middle income,34.8,,2279220415
+1997,Upper middle income,34.7,,2305065239
+1998,Upper middle income,35.4,,2329845650
+1999,Upper middle income,33,,2353107993
+2000,Upper middle income,30.2,,2375280814
+2001,Upper middle income,28.4,,2396527322
+2002,Upper middle income,25.2,,2416905279
+2003,Upper middle income,22.9,,2436604576
+2004,Upper middle income,20.1,,2455899822
+2005,Upper middle income,16.6,,2475204158
+2006,Upper middle income,16,,2493607365
+2007,Upper middle income,14.4,,2511010944
+2008,Upper middle income,13.6,,2529819216
+2009,Upper middle income,12.1,,2549122048
+2010,Upper middle income,10.6,,2567922649
+2011,Upper middle income,8.3,,2587915297
+2012,Upper middle income,7.1,,2610195637
+2013,Upper middle income,3.8,,2632878553
+2014,Upper middle income,3.2,,2654785044
+2015,Upper middle income,2.6,,2675824754
+2016,Upper middle income,2.4,,2695996374
+2017,Upper middle income,2.3,,2716214857
+2018,Upper middle income,2,,2735017750
+2019,Upper middle income,1.8,,2752025737
+2020,Upper middle income,1.2,,2765716827
+2021,Upper middle income,,,2776124854
+2022,Upper middle income,,,2784368143
+1981,High income,,0.8,965344988
+1982,High income,0.8,0.8,972633145
+1983,High income,0.8,,979407389
+1984,High income,0.8,,985784657
+1985,High income,0.8,,992224395
+1986,High income,0.7,,998874393
+1987,High income,0.7,,1005670379
+1988,High income,0.7,,1012656998
+1989,High income,0.6,,1020150995
+1990,High income,0.6,,1027500717
+1991,High income,0.6,,1035875187
+1992,High income,0.6,,1044477102
+1993,High income,0.8,,1052626906
+1994,High income,0.9,,1060148248
+1995,High income,0.7,,1067301466
+1996,High income,0.8,,1074550287
+1997,High income,0.7,,1081668120
+1998,High income,0.7,,1088601219
+1999,High income,0.7,,1095437130
+2000,High income,0.7,,1102139639
+2001,High income,0.7,,1108870086
+2002,High income,0.7,,1115681856
+2003,High income,0.7,,1122515138
+2004,High income,0.6,,1129571825
+2005,High income,0.6,,1136981371
+2006,High income,0.6,,1145510251
+2007,High income,0.5,,1154791752
+2008,High income,0.5,,1164409232
+2009,High income,0.5,,1173066945
+2010,High income,0.5,,1180459116
+2011,High income,0.5,,1185474102
+2012,High income,0.6,,1192042103
+2013,High income,0.6,,1198818424
+2014,High income,0.8,,1205686277
+2015,High income,0.8,,1212444178
+2016,High income,0.6,,1219354936
+2017,High income,0.7,,1225544265
+2018,High income,0.6,,1231508785
+2019,High income,0.6,,1236709936
+2020,High income,0.4,,1241718902
+2021,High income,,,1241268556
+2022,High income,,,1244364814
+1981,Low income,,75.3,229413733
+1982,Low income,,74.55,234808317
+1983,Low income,,73.8,240996976
+1984,Low income,,73.05,247448306
+1985,Low income,,72.3,254069015
+1986,Low income,,71.55,260658473
+1987,Low income,,70.8,267469591
+1988,Low income,,70.05,274348618
+1989,Low income,,69.3,281571278
+1990,Low income,,68.55,288759638
+1991,Low income,,67.8,296103521
+1992,Low income,,67.05,304997572
+1993,Low income,,66.3,314673487
+1994,Low income,,65.55,323847963
+1995,Low income,64.8,64.8,333181004
+1996,Low income,63.5,,343031111
+1997,Low income,62.6,,352755561
+1998,Low income,62,,362458276
+1999,Low income,61.1,,372579993
+2000,Low income,60.3,,382593480
+2001,Low income,59,,392924294
+2002,Low income,59.7,,404771898
+2003,Low income,57.9,,417212831
+2004,Low income,54.3,,429354375
+2005,Low income,52.3,,441886612
+2006,Low income,51.3,,455313027
+2007,Low income,50.1,,469010772
+2008,Low income,48.3,,482640782
+2009,Low income,48.6,,496609143
+2010,Low income,46.6,,510897321
+2011,Low income,45.6,,525506329
+2012,Low income,44.5,,540002626
+2013,Low income,43.6,,553835758
+2014,Low income,42.8,,567702296
+2015,Low income,44.9,,582173028
+2016,Low income,44.6,,597683499
+2017,Low income,45.3,,613946858
+2018,Low income,45.3,45.3,630865826
+2019,Low income,,45.3,648755452
+2020,Low income,,45.4,667053670
+2021,Low income,,,685250041
+2022,Low income,,,703727949
+1981,Lower middle income,49,,1484255406
+1982,Lower middle income,48.9,,1522502878
+1983,Lower middle income,48,,1560582055
+1984,Lower middle income,46.9,,1599194345
+1985,Lower middle income,46,,1638678142
+1986,Lower middle income,45.6,,1678965564
+1987,Lower middle income,45.4,,1719627844
+1988,Lower middle income,44.5,,1760619584
+1989,Lower middle income,44.2,,1802051624
+1990,Lower middle income,43.7,,1844475984
+1991,Lower middle income,43.3,,1887004231
+1992,Lower middle income,42.2,,1928297051
+1993,Lower middle income,41.8,,1968978416
+1994,Lower middle income,41.2,,2009876827
+1995,Lower middle income,40,,2051126886
+1996,Lower middle income,38.8,38.8,2092206279
+1997,Lower middle income,,38.4,2133529481
+1998,Lower middle income,,38,2175317595
+1999,Lower middle income,,37.6,2217196774
+2000,Lower middle income,,37.2,2259879800
+2001,Lower middle income,,36.8,2303146181
+2002,Lower middle income,36.4,36.4,2345451008
+2003,Lower middle income,35.1,,2387347922
+2004,Lower middle income,33.3,,2429871397
+2005,Lower middle income,31.7,,2471959522
+2006,Lower middle income,30.3,,2513577643
+2007,Lower middle income,28.7,,2555229019
+2008,Lower middle income,27.3,,2596637908
+2009,Lower middle income,26.2,,2638537324
+2010,Lower middle income,23.6,,2681991417
+2011,Lower middle income,20.5,,2726052485
+2012,Lower middle income,19.1,,2769675465
+2013,Lower middle income,18.3,,2813932332
+2014,Lower middle income,17.4,,2858673420
+2015,Lower middle income,16.5,,2902878488
+2016,Lower middle income,15.9,,2946639176
+2017,Lower middle income,14,,2990172548
+2018,Lower middle income,12.4,,3033153113
+2019,Lower middle income,12.4,,3075311775
+2020,Lower middle income,11.9,,3117225754
+2021,Lower middle income,10.9,,3157462375
+2022,Lower middle income,,,3190184199
+1981,Low & middle income,55.5,,
+1982,Low & middle income,54.9,,
+1983,Low & middle income,53.8,,
+1984,Low & middle income,51.8,,
+1985,Low & middle income,49.9,,
+1986,Low & middle income,48.1,,
+1987,Low & middle income,46.8,,
+1988,Low & middle income,44.6,,
+1989,Low & middle income,47.8,,
+1990,Low & middle income,47.1,,
+1991,Low & middle income,46.4,,
+1992,Low & middle income,45.2,,
+1993,Low & middle income,44.1,,
+1994,Low & middle income,42.2,,
+1995,Low & middle income,40.3,,
+1996,Low & middle income,38.4,,
+1997,Low & middle income,38,,
+1998,Low & middle income,38.2,,
+1999,Low & middle income,37,,
+2000,Low & middle income,35.6,,
+2001,Low & middle income,34.4,,
+2002,Low & middle income,32.6,,
+2003,Low & middle income,31,,
+2004,Low & middle income,28.6,,
+2005,Low & middle income,26.2,,
+2006,Low & middle income,25.2,,
+2007,Low & middle income,23.7,,
+2008,Low & middle income,22.7,,
+2009,Low & middle income,21.6,,
+2010,Low & middle income,19.6,,
+2011,Low & middle income,17,,
+2012,Low & middle income,15.8,,
+2013,Low & middle income,14,,
+2014,Low & middle income,13.2,,
+2015,Low & middle income,12.8,,
+2016,Low & middle income,12.5,,
+2017,Low & middle income,11.6,,
+2018,Low & middle income,10.8,,
+2019,Low & middle income,10.7,,
+2020,Low & middle income,6.1,,
+2021,Low & middle income,,,
+2022,Low & middle income,,,
