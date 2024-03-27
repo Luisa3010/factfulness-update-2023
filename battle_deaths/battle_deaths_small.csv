@@ -1,0 +1,1461 @@
+location_inc,territory_name,year,bd_best,bd_low,bd_high,battle_location,region
+"Tajikistan, Kyrgyzstan",Common Border,2021,56,56,56,"Tajikistan, Kyrgyzstan",Asia
+"Tajikistan, Kyrgyzstan",Common Border,2022,152,152,158,"Tajikistan, Kyrgyzstan",Asia
+Burkina Faso,Islamic State,2019,78,73,137,Burkina Faso,Africa
+Burkina Faso,Islamic State,2020,160,131,182,Burkina Faso,Africa
+Burkina Faso,Islamic State,2021,170,152,176,Burkina Faso,Africa
+Burkina Faso,Islamic State,2022,404,254,422,Burkina Faso,Africa
+Jordan,Islamic State,2016,34,34,35,"Jordan, Syria",Middle East
+Turkey,Islamic State,2016,1107,1102,1107,"Syria, Iraq, Turkey",Middle East
+Turkey,Islamic State,2017,750,683,902,"Syria, Turkey",Middle East
+Turkey,Islamic State,2015,26,26,27,"Syria, Turkey",Middle East
+India,Garoland,2012,27,23,27,India,Asia
+India,Garoland,2014,26,23,32,India,Asia
+Sudan,Abyei,2011,145,145,145,Sudan,Africa
+South Sudan,,2016,735,734,1155,South Sudan,Africa
+South Sudan,,2017,484,478,684,"South Sudan, Uganda",Africa
+South Sudan,,2018,526,497,727,South Sudan,Africa
+South Sudan,,2019,110,102,188,South Sudan,Africa
+South Sudan,,2020,58,49,135,South Sudan,Africa
+South Sudan,,2021,188,188,209,South Sudan,Africa
+South Sudan,,2011,216,216,326,South Sudan,Africa
+South Sudan,,2012,137,137,137,South Sudan,Africa
+South Sudan,,2013,926,926,2318,South Sudan,Africa
+South Sudan,,2014,1667,719,2993,South Sudan,Africa
+South Sudan,,2015,493,492,522,South Sudan,Africa
+Libya,,2017,308,308,337,Libya,Africa
+Libya,,2019,1588,1381,1664,Libya,Africa
+Libya,,2020,668,564,784,Libya,Africa
+Libya,,2011,3762,3722,6285,Libya,Africa
+Libya,,2013,31,17,61,Libya,Africa
+Libya,,2014,274,274,274,Libya,Africa
+Libya,,2015,156,156,190,Libya,Africa
+Mali,,2016,96,96,111,Mali,Africa
+Mali,,2017,312,303,414,Mali,Africa
+Mali,,2018,402,375,435,Mali,Africa
+Mali,,2019,422,421,566,Mali,Africa
+Mali,,2020,517,498,650,Mali,Africa
+Mali,,2021,616,578,660,Mali,Africa
+Mali,,2022,1113,1095,1246,"Mali, Burkina Faso",Africa
+Mali,,2009,87,54,93,Mali,Africa
+Mali,,2012,87,83,270,Mali,Africa
+Mali,,2013,836,836,1004,"Mali, Niger",Africa
+Mali,,2014,95,95,129,Mali,Africa
+Mali,,2015,74,72,109,Mali,Africa
+"South Sudan, Sudan",Common border,2012,367,367,1099,"South Sudan, Sudan",Africa
+China,East Turkestan,2008,36,36,39,China,Asia
+Bangladesh,,2005,62,61,68,Bangladesh,Asia
+Bangladesh,,2006,57,57,58,Bangladesh,Asia
+Ethiopia,Amhara,2019,27,27,27,Ethiopia,Africa
+Israel,Southern Lebanon,1990,42,42,45,Lebanon,Middle East
+Israel,Southern Lebanon,1991,28,28,31,Lebanon,Middle East
+Israel,Southern Lebanon,1992,87,87,120,"Lebanon, Argentina, Israel",Middle East
+Israel,Southern Lebanon,1993,124,124,186,"Lebanon, Israel",Middle East
+Israel,Southern Lebanon,1994,82,71,120,Lebanon,Middle East
+Israel,Southern Lebanon,1995,74,71,85,"Lebanon, Israel",Middle East
+Israel,Southern Lebanon,1996,95,93,103,"Lebanon, Israel",Middle East
+Israel,Southern Lebanon,1997,82,82,90,Lebanon,Middle East
+Israel,Southern Lebanon,1998,54,54,56,Lebanon,Middle East
+Israel,Southern Lebanon,1999,41,41,42,Lebanon,Middle East
+Israel,Southern Lebanon,2006,857,855,1160,"Lebanon, Israel",Middle East
+Pakistan,Islamic State,2016,68,68,68,Pakistan,Asia
+Pakistan,Islamic State,2017,80,80,81,Pakistan,Asia
+Pakistan,Islamic State,2018,51,51,51,Pakistan,Asia
+Pakistan,Islamic State,2019,29,29,29,Pakistan,Asia
+Pakistan,Islamic State,2021,26,26,26,Pakistan,Asia
+Pakistan,Islamic State,2022,29,25,30,"Afghanistan, Pakistan",Asia
+Ethiopia,Hararghe,1991,100,100,100,Ethiopia,Africa
+Iran,Kurdistan,2016,30,30,137,"Iraq, Iran",Middle East
+Iran,Kurdistan,2018,44,33,78,"Iraq, Iran",Middle East
+Iran,Kurdistan,1990,31,31,335,Iran,Middle East
+Iran,Kurdistan,1993,110,110,110,"Iraq, Iran",Middle East
+Iran,Kurdistan,1996,27,27,29,"Iraq, Iran",Middle East
+Philippines,,1989,822,801,885,Philippines,Asia
+Philippines,,1990,1175,1171,1193,Philippines,Asia
+Philippines,,1991,1514,1514,1933,Philippines,Asia
+Philippines,,1992,430,430,454,Philippines,Asia
+Philippines,,1993,99,99,114,Philippines,Asia
+Philippines,,1994,69,69,73,Philippines,Asia
+Philippines,,1995,36,36,41,Philippines,Asia
+Philippines,,1997,32,32,32,Philippines,Asia
+Philippines,,1999,93,93,98,Philippines,Asia
+Philippines,,2000,140,140,140,Philippines,Asia
+Philippines,,2001,142,138,287,Philippines,Asia
+Philippines,,2002,280,280,291,Philippines,Asia
+Philippines,,2003,231,227,236,Philippines,Asia
+Philippines,,2004,270,264,344,Philippines,Asia
+Philippines,,2005,234,222,243,Philippines,Asia
+Philippines,,2006,310,310,1018,Philippines,Asia
+Philippines,,2007,132,132,1077,Philippines,Asia
+Philippines,,2008,184,184,217,Philippines,Asia
+Philippines,,2009,377,377,400,Philippines,Asia
+Philippines,,2010,258,258,352,Philippines,Asia
+Philippines,,2011,204,204,210,Philippines,Asia
+Philippines,,2012,182,181,193,Philippines,Asia
+Philippines,,2013,165,165,170,Philippines,Asia
+Philippines,,2014,190,187,199,Philippines,Asia
+Philippines,,2015,168,168,173,Philippines,Asia
+Philippines,,2016,92,92,101,Philippines,Asia
+Philippines,,2017,174,174,214,Philippines,Asia
+Philippines,,2018,144,103,149,Philippines,Asia
+Philippines,,2019,138,136,177,Philippines,Asia
+Philippines,,2020,165,165,166,Philippines,Asia
+Philippines,,2021,195,195,195,Philippines,Asia
+Philippines,,2022,152,152,152,Philippines,Asia
+Myanmar (Burma),Nagaland,1991,150,150,150,Myanmar (Burma),Asia
+Myanmar (Burma),Nagaland,1995,33,33,33,Myanmar (Burma),Asia
+Myanmar (Burma),Nagaland,2000,43,43,43,"Myanmar (Burma), India",Asia
+Myanmar (Burma),Nagaland,2001,62,62,62,Myanmar (Burma),Asia
+Myanmar (Burma),Nagaland,2005,38,23,38,Myanmar (Burma),Asia
+Myanmar (Burma),Nagaland,2006,92,92,97,Myanmar (Burma),Asia
+Myanmar (Burma),Nagaland,2007,215,215,215,Myanmar (Burma),Asia
+"Pakistan, India",Kashmir,1989,25,25,25,India,Asia
+"Pakistan, India",Kashmir,1990,28,26,28,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,1991,99,99,195,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,1992,25,25,33,India,Asia
+"Pakistan, India",Kashmir,1994,42,42,42,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,1996,35,35,35,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,1997,127,127,133,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,1998,147,147,163,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,1999,934,914,1508,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2000,222,221,259,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2001,48,48,86,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2002,212,212,233,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2003,237,237,276,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2013,31,31,33,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2014,49,46,68,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2015,63,62,64,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2016,100,100,112,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2017,151,151,153,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2018,129,126,164,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2019,164,164,175,"Pakistan, India",Asia
+"Pakistan, India",Kashmir,2020,162,162,168,"Pakistan, India",Asia
+Paraguay,,1989,150,17,300,Paraguay,Americas
+Myanmar (Burma),Karen,1989,1000,809,1355,"Thailand, Myanmar (Burma)",Asia
+Myanmar (Burma),Karen,1990,393,393,428,"Thailand, Myanmar (Burma)",Asia
+Myanmar (Burma),Karen,1991,552,497,672,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,1992,1163,1130,1275,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,1994,25,15,25,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,1995,110,60,110,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,1997,41,41,41,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,1998,36,36,36,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2000,114,112,114,"Thailand, Myanmar (Burma)",Asia
+Myanmar (Burma),Karen,2001,36,36,36,"Thailand, Myanmar (Burma)",Asia
+Myanmar (Burma),Karen,2002,110,108,121,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2003,38,38,44,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2004,27,25,28,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2005,42,38,46,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2006,104,79,105,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2007,104,104,106,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2008,33,33,36,"Thailand, Myanmar (Burma)",Asia
+Myanmar (Burma),Karen,2009,63,43,79,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2010,121,106,125,"Thailand, Myanmar (Burma)",Asia
+Myanmar (Burma),Karen,2011,334,318,1467,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2013,41,41,41,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2021,78,72,911,Myanmar (Burma),Asia
+Myanmar (Burma),Karen,2022,241,239,2148,Myanmar (Burma),Asia
+Myanmar (Burma),,2017,46,46,46,Myanmar (Burma),Asia
+Myanmar (Burma),,2018,46,34,77,Myanmar (Burma),Asia
+Myanmar (Burma),,2019,49,36,91,Myanmar (Burma),Asia
+Myanmar (Burma),,2021,684,595,3291,Myanmar (Burma),Asia
+Myanmar (Burma),,2022,1313,1156,6342,Myanmar (Burma),Asia
+Myanmar (Burma),,1990,25,25,25,Myanmar (Burma),Asia
+Myanmar (Burma),,1991,25,25,25,Myanmar (Burma),Asia
+Myanmar (Burma),,1992,25,25,25,Myanmar (Burma),Asia
+Myanmar (Burma),,1994,25,25,25,Myanmar (Burma),Asia
+Myanmar (Burma),,2013,29,29,30,Myanmar (Burma),Asia
+Myanmar (Burma),,2014,37,37,203,Myanmar (Burma),Asia
+Myanmar (Burma),,2015,106,106,181,Myanmar (Burma),Asia
+Malaysia,Sabah,2013,70,68,122,"Philippines, Malaysia",Asia
+Myanmar (Burma),Arakan,2016,86,84,129,Myanmar (Burma),Asia
+Myanmar (Burma),Arakan,2017,393,393,404,Myanmar (Burma),Asia
+Myanmar (Burma),Arakan,2018,27,14,87,Myanmar (Burma),Asia
+Myanmar (Burma),Arakan,2019,480,365,1013,Myanmar (Burma),Asia
+Myanmar (Burma),Arakan,2020,161,161,199,"Myanmar (Burma), Bangladesh",Asia
+Myanmar (Burma),Arakan,2022,134,133,292,"Myanmar (Burma), Bangladesh",Asia
+Myanmar (Burma),Arakan,1991,25,25,25,Myanmar (Burma),Asia
+Myanmar (Burma),Arakan,1994,109,109,109,Myanmar (Burma),Asia
+Myanmar (Burma),Mon,1996,80,80,80,Myanmar (Burma),Asia
+Myanmar (Burma),Mon,1990,112,112,112,Myanmar (Burma),Asia
+India,,1991,78,78,78,India,Asia
+India,,1992,322,322,502,India,Asia
+India,,1993,182,174,193,India,Asia
+India,,1994,68,68,68,India,Asia
+India,,1996,173,172,173,India,Asia
+India,,1997,84,78,85,India,Asia
+India,,1998,99,99,111,India,Asia
+India,,1999,126,120,130,India,Asia
+India,,2000,196,189,201,India,Asia
+India,,2001,173,158,173,India,Asia
+India,,2002,179,178,189,India,Asia
+India,,2003,99,99,104,India,Asia
+India,,2004,71,71,71,India,Asia
+India,,2005,199,199,241,India,Asia
+India,,2006,546,489,608,India,Asia
+India,,2007,377,373,404,India,Asia
+India,,2008,384,376,437,India,Asia
+India,,2009,522,513,654,India,Asia
+India,,2010,569,556,664,India,Asia
+India,,2011,299,299,348,India,Asia
+India,,2012,245,237,278,India,Asia
+India,,2013,215,209,236,India,Asia
+India,,2014,198,171,245,India,Asia
+India,,2015,146,146,205,India,Asia
+India,,2016,268,244,323,India,Asia
+India,,2017,245,244,246,India,Asia
+India,,2018,309,304,321,India,Asia
+India,,2019,216,216,217,India,Asia
+India,,2020,153,152,175,India,Asia
+India,,2021,181,175,193,India,Asia
+India,,2022,75,75,75,India,Asia
+Yemen (North Yemen),,2016,3066,2979,3145,"Saudi Arabia, Yemen (North Yemen)",Middle East
+Yemen (North Yemen),,2017,3045,2902,3476,"Saudi Arabia, Yemen (North Yemen)",Middle East
+Yemen (North Yemen),,2018,4528,4446,6620,"Saudi Arabia, Yemen (North Yemen)",Middle East
+Yemen (North Yemen),,2019,2588,2067,3526,"Saudi Arabia, Yemen (North Yemen)",Middle East
+Yemen (North Yemen),,2020,6255,3755,16211,"Saudi Arabia, Yemen (North Yemen)",Middle East
+Yemen (North Yemen),,2021,23356,22110,33633,"Saudi Arabia, Yemen (North Yemen)",Middle East
+Yemen (North Yemen),,2022,2899,2116,3551,"United Arab Emirates, Yemen (North Yemen)",Middle East
+Yemen (North Yemen),,2009,94,94,103,Yemen (North Yemen),Middle East
+Yemen (North Yemen),,2010,175,149,244,Yemen (North Yemen),Middle East
+Yemen (North Yemen),,2011,1140,1135,1195,Yemen (North Yemen),Middle East
+Yemen (North Yemen),,2012,2331,2328,2416,Yemen (North Yemen),Middle East
+Yemen (North Yemen),,2013,582,581,641,Yemen (North Yemen),Middle East
+Yemen (North Yemen),,2014,1780,1780,2168,Yemen (North Yemen),Middle East
+Yemen (North Yemen),,2015,6867,6577,7878,"Saudi Arabia, Yemen (North Yemen)",Middle East
+Myanmar (Burma),Kachin,2016,32,31,47,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,2017,43,43,43,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,2018,26,21,52,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,2019,29,29,30,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,1989,194,194,194,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,1990,25,25,25,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,1991,25,25,25,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,1992,25,25,25,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,2021,136,132,503,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,2022,276,273,935,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,2011,209,208,574,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,2012,702,676,2198,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,2013,125,117,143,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,2014,83,83,84,Myanmar (Burma),Asia
+Myanmar (Burma),Kachin,2015,142,142,224,Myanmar (Burma),Asia
+Guatemala,,1989,82,82,300,Guatemala,Americas
+Guatemala,,1990,83,83,114,Guatemala,Americas
+Guatemala,,1991,72,72,85,Guatemala,Americas
+Guatemala,,1992,67,67,95,Guatemala,Americas
+Guatemala,,1993,58,58,86,Guatemala,Americas
+Guatemala,,1994,37,37,39,Guatemala,Americas
+Guatemala,,1995,27,21,27,Guatemala,Americas
+Israel,Palestine,1989,54,54,63,"Lebanon, Israel",Middle East
+Israel,Palestine,1990,29,26,49,"Lebanon, Israel",Middle East
+Israel,Palestine,1991,28,28,30,"Lebanon, Israel",Middle East
+Israel,Palestine,1992,33,32,36,"Lebanon, France, Israel",Middle East
+Israel,Palestine,1993,47,47,48,Israel,Middle East
+Israel,Palestine,1994,44,41,45,Israel,Middle East
+Israel,Palestine,1995,34,34,36,"Malta, Israel",Middle East
+Israel,Palestine,1996,66,66,66,Israel,Middle East
+Israel,Palestine,2000,77,74,79,Israel,Middle East
+Israel,Palestine,2001,244,238,261,Israel,Middle East
+Israel,Palestine,2002,613,606,669,Israel,Middle East
+Israel,Palestine,2003,308,308,327,Israel,Middle East
+Israel,Palestine,2004,386,372,435,"Syria, Israel",Middle East
+Israel,Palestine,2005,123,117,136,Israel,Middle East
+Israel,Palestine,2006,348,341,405,"Lebanon, Israel",Middle East
+Israel,Palestine,2007,276,275,305,Israel,Middle East
+Israel,Palestine,2008,668,580,715,Israel,Middle East
+Israel,Palestine,2009,696,598,867,Israel,Middle East
+Israel,Palestine,2010,27,27,27,Israel,Middle East
+Israel,Palestine,2011,78,78,78,Israel,Middle East
+Israel,Palestine,2012,235,236,245,Israel,Middle East
+Israel,Palestine,2014,2378,2368,2383,Israel,Middle East
+Israel,Palestine,2018,53,53,62,Israel,Middle East
+Israel,Palestine,2019,50,50,51,"Syria, Israel",Middle East
+Israel,Palestine,2021,269,269,269,Israel,Middle East
+Israel,Palestine,2022,84,81,84,Israel,Middle East
+Syria,Rojava Kurdistan,2012,46,39,51,Syria,Middle East
+Syria,Rojava Kurdistan,2013,78,73,82,Syria,Middle East
+Syria,Rojava Kurdistan,2014,52,37,61,Syria,Middle East
+Syria,Rojava Kurdistan,2015,84,81,86,Syria,Middle East
+Somalia,Somaliland,2018,121,105,172,Somalia,Africa
+India,Nagaland,1992,47,47,47,India,Asia
+India,Nagaland,1993,92,92,128,India,Asia
+India,Nagaland,1994,60,58,69,India,Asia
+India,Nagaland,1995,95,95,95,India,Asia
+India,Nagaland,1996,40,40,40,India,Asia
+India,Nagaland,1997,37,37,37,India,Asia
+India,Nagaland,2000,30,18,30,India,Asia
+Myanmar (Burma),Karenni,2021,62,40,317,Myanmar (Burma),Asia
+Myanmar (Burma),Karenni,2022,74,61,719,Myanmar (Burma),Asia
+Myanmar (Burma),Karenni,1992,404,402,404,Myanmar (Burma),Asia
+Myanmar (Burma),Karenni,1996,124,124,140,Myanmar (Burma),Asia
+Myanmar (Burma),Karenni,2005,35,35,35,"Thailand, Myanmar (Burma)",Asia
+Iraq,,1991,237,237,1261,Iraq,Middle East
+Iraq,,1992,280,280,741,Iraq,Middle East
+Iraq,,1993,75,75,203,Iraq,Middle East
+Iraq,,1994,34,34,36,Iraq,Middle East
+Iraq,,1995,325,325,650,Iraq,Middle East
+Iraq,,1996,42,42,66,Iraq,Middle East
+Iraq,,2004,4094,4081,6142,Iraq,Middle East
+Iraq,,2005,2608,2542,3563,Iraq,Middle East
+Iraq,,2006,3923,3192,4123,Iraq,Middle East
+Iraq,,2007,2212,2040,2481,Iraq,Middle East
+Iraq,,2008,2112,2098,2539,Iraq,Middle East
+Iraq,,2009,1036,926,1074,Iraq,Middle East
+Iraq,,2010,989,810,1040,Iraq,Middle East
+Iraq,,2011,864,737,959,Iraq,Middle East
+Iraq,,2012,565,487,598,Iraq,Middle East
+Iraq,,2013,1870,1723,1925,"Syria, Iraq",Middle East
+Iraq,,2014,13761,13035,15037,"Syria, Iraq",Middle East
+Iraq,,2015,10981,10918,12181,"Libya, Iraq, Syria, France",Middle East
+Iraq,,2016,9775,9543,10214,"Belgium, Libya, Iraq, Syria",Middle East
+Iraq,,2017,10025,9776,12186,"Yemen (North Yemen), Afghanistan, France, Iraq, Syria, Pakistan",Middle East
+Iraq,,2018,866,856,900,"France, Iraq, Australia, Syria, Belgium",Middle East
+Iraq,,2019,498,497,520,"United Kingdom, Syria, Iraq",Middle East
+Iraq,,2020,671,638,711,"Syria, Iraq",Middle East
+Iraq,,2021,707,628,816,"Iraq, Afghanistan",Middle East
+Iraq,,2022,335,332,349,Iraq,Middle East
+Lebanon,,1989,711,606,906,Lebanon,Middle East
+Lebanon,,1990,700,400,800,Lebanon,Middle East
+Laos,,1989,30,30,30,Laos,Asia
+Laos,,1990,249,45,249,Laos,Asia
+Myanmar (Burma),Shan,1993,130,130,230,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,1994,526,526,984,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,1995,174,174,332,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,1996,25,25,25,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,1997,152,152,157,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,1998,25,4,25,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,1999,25,25,25,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,2000,69,69,69,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,2001,117,117,117,"Thailand, Myanmar (Burma)",Asia
+Myanmar (Burma),Shan,2002,184,183,250,"Thailand, Myanmar (Burma)",Asia
+Myanmar (Burma),Shan,2005,27,27,28,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,2006,48,38,49,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,2007,29,29,29,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,2008,31,31,31,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,2009,52,52,60,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,2010,36,36,36,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,2011,170,169,172,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,2013,83,80,85,Myanmar (Burma),Asia
+Myanmar (Burma),Shan,2015,77,77,308,Myanmar (Burma),Asia
+DR Congo (Zaire),Katanga,2020,54,41,77,DR Congo (Zaire),Africa
+DR Congo (Zaire),Katanga,2013,94,90,115,DR Congo (Zaire),Africa
+DR Congo (Zaire),Katanga,2014,60,30,60,DR Congo (Zaire),Africa
+Ethiopia,,2020,1596,1493,3665,Ethiopia,Africa
+Ethiopia,,1989,18403,18403,18420,Ethiopia,Africa
+Ethiopia,,2021,8789,8258,42218,Ethiopia,Africa
+Ethiopia,,2022,100321,100217,101861,"Eritrea, Ethiopia, Sudan",Africa
+Ethiopia,,1991,4518,4518,5568,Ethiopia,Africa
+Ethiopia,,1990,18985,18985,18985,Ethiopia,Africa
+Nepal,,1996,44,44,46,Nepal,Asia
+Nepal,,1997,40,40,40,Nepal,Asia
+Nepal,,1998,250,118,302,Nepal,Asia
+Nepal,,1999,156,147,306,Nepal,Asia
+Nepal,,2000,268,259,295,Nepal,Asia
+Nepal,,2001,429,380,479,Nepal,Asia
+Nepal,,2002,3946,2773,4105,Nepal,Asia
+Nepal,,2003,1341,1275,1405,Nepal,Asia
+Nepal,,2004,1880,1848,2040,Nepal,Asia
+Nepal,,2005,1104,1100,1169,Nepal,Asia
+Nepal,,2006,457,452,477,Nepal,Asia
+Iraq,Kurdistan,1989,50,50,50,Iraq,Middle East
+Iraq,Kurdistan,1990,94,94,94,Iraq,Middle East
+Iraq,Kurdistan,1991,1247,1247,2603,Iraq,Middle East
+Iraq,Kurdistan,1992,26,26,52,Iraq,Middle East
+Iraq,Kurdistan,1995,262,262,302,Iraq,Middle East
+Iraq,Kurdistan,1996,356,356,366,"Iraq, Iran",Middle East
+"Iran, Israel",,2018,111,111,127,Syria,Middle East
+"Iran, Israel",,2019,138,113,153,Syria,Middle East
+"Iran, Israel",,2020,461,398,473,"Syria, Iraq, Yemen (North Yemen), Iran",Middle East
+"Iran, Israel",,2021,162,157,172,Syria,Middle East
+"Iran, Israel",,2022,55,55,85,"Syria, Yemen (North Yemen)",Middle East
+"India, China","Arunachal Pradesh, Aksai Chin",2020,25,25,25,India,Asia
+Ethiopia,Eritrea,1989,5930,5930,5930,Ethiopia,Africa
+Ethiopia,Eritrea,1990,30633,30633,30633,Ethiopia,Africa
+Ethiopia,Eritrea,1991,6907,6904,6907,Ethiopia,Africa
+Russia (Soviet Union),Islamic State,2016,69,64,85,Russia (Soviet Union),Europe
+Russia (Soviet Union),Islamic State,2017,53,53,76,Russia (Soviet Union),Europe
+Russia (Soviet Union),Islamic State,2018,30,30,30,Russia (Soviet Union),Europe
+Russia (Soviet Union),Islamic State,2019,26,26,27,Russia (Soviet Union),Europe
+Russia (Soviet Union),Islamic State,2020,30,24,31,Russia (Soviet Union),Europe
+Russia (Soviet Union),Islamic State,2015,55,55,57,Russia (Soviet Union),Europe
+Venezuela,,1992,144,144,263,Venezuela,Americas
+DR Congo (Zaire),,1996,1288,1148,1836,DR Congo (Zaire),Africa
+DR Congo (Zaire),,1997,4465,4046,4834,DR Congo (Zaire),Africa
+DR Congo (Zaire),,1998,3268,3022,5711,DR Congo (Zaire),Africa
+DR Congo (Zaire),,1999,2953,2598,3229,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2000,1294,1260,2458,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2001,454,454,734,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2005,34,34,34,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2006,182,54,362,"DR Congo (Zaire), Uganda",Africa
+DR Congo (Zaire),,2007,516,516,553,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2008,486,486,486,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2011,41,41,41,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2012,734,678,851,"Rwanda, DR Congo (Zaire)",Africa
+DR Congo (Zaire),,2013,1380,1360,1390,"Rwanda, DR Congo (Zaire)",Africa
+DR Congo (Zaire),,2014,86,63,106,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2016,506,308,1822,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2017,3309,3067,4265,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2018,439,439,453,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2019,177,177,179,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2020,223,213,246,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2021,396,384,420,DR Congo (Zaire),Africa
+DR Congo (Zaire),,2022,543,535,582,"Rwanda, DR Congo (Zaire)",Africa
+Burundi,,1991,272,272,551,Burundi,Africa
+Burundi,,1992,61,61,61,Burundi,Africa
+Burundi,,1994,56,56,532,Burundi,Africa
+Burundi,,1995,254,235,526,Burundi,Africa
+Burundi,,1996,531,496,962,Burundi,Africa
+Burundi,,1997,639,539,1216,Burundi,Africa
+Burundi,,1998,621,621,740,Burundi,Africa
+Burundi,,1999,524,321,679,Burundi,Africa
+Burundi,,2000,1347,1226,2122,Burundi,Africa
+Burundi,,2001,1182,1169,2488,Burundi,Africa
+Burundi,,2002,1127,795,1604,"Burundi, DR Congo (Zaire)",Africa
+Burundi,,2003,985,985,1154,Burundi,Africa
+Burundi,,2004,387,367,425,Burundi,Africa
+Burundi,,2005,286,286,356,Burundi,Africa
+Burundi,,2006,141,141,141,Burundi,Africa
+Burundi,,2008,201,201,205,Burundi,Africa
+Burundi,,2014,56,56,56,Burundi,Africa
+Burundi,,2015,185,185,188,Burundi,Africa
+Burundi,,2019,61,60,96,"Burundi, DR Congo (Zaire)",Africa
+Burundi,,2020,139,135,201,"Burundi, DR Congo (Zaire)",Africa
+Burundi,,2021,26,26,29,"Burundi, DR Congo (Zaire)",Africa
+Burundi,,2022,234,226,260,DR Congo (Zaire),Africa
+Chad,,1989,315,315,1585,"Chad, Sudan",Africa
+Chad,,1990,1352,1352,8932,"Chad, Sudan",Africa
+Chad,,1991,68,68,68,Chad,Africa
+Chad,,1992,899,899,1553,Chad,Africa
+Chad,,1993,120,120,120,Chad,Africa
+Chad,,1994,156,156,260,Chad,Africa
+Chad,,1997,97,97,97,Chad,Africa
+Chad,,1998,34,34,34,Chad,Africa
+Chad,,1999,394,394,1149,Chad,Africa
+Chad,,2000,989,989,1041,Chad,Africa
+Chad,,2001,226,226,326,Chad,Africa
+Chad,,2002,294,294,350,Chad,Africa
+Chad,,2003,37,37,189,Chad,Africa
+Chad,,2005,100,100,356,Chad,Africa
+Chad,,2006,1250,1250,2623,Chad,Africa
+Chad,,2007,69,69,380,Chad,Africa
+Chad,,2008,991,991,1361,Chad,Africa
+Chad,,2009,131,131,324,Chad,Africa
+Chad,,2010,42,42,83,"Chad, Sudan",Africa
+Chad,,2018,42,42,89,Chad,Africa
+Chad,,2020,53,6,53,Chad,Africa
+Chad,,2021,431,431,631,Chad,Africa
+Mali,Islamic State,2017,47,47,47,Mali,Africa
+Mali,Islamic State,2018,119,114,155,Mali,Africa
+Mali,Islamic State,2019,181,174,195,Mali,Africa
+Mali,Islamic State,2020,63,58,106,Mali,Africa
+Mali,Islamic State,2021,110,110,129,Mali,Africa
+Mali,Islamic State,2022,323,323,436,Mali,Africa
+Colombia,,1989,238,237,944,Colombia,Americas
+Colombia,,1990,501,501,568,Colombia,Americas
+Colombia,,1991,725,725,754,Colombia,Americas
+Colombia,,1992,1479,1479,1503,Colombia,Americas
+Colombia,,1993,182,182,192,Colombia,Americas
+Colombia,,1994,1123,1123,1334,Colombia,Americas
+Colombia,,1995,823,823,828,Colombia,Americas
+Colombia,,1996,1192,1185,1229,Colombia,Americas
+Colombia,,1997,560,560,676,Colombia,Americas
+Colombia,,1998,939,938,1384,Colombia,Americas
+Colombia,,1999,1374,1353,1663,Colombia,Americas
+Colombia,,2000,1870,1856,2189,Colombia,Americas
+Colombia,,2001,1864,1859,1983,Colombia,Americas
+Colombia,,2002,3379,3320,3914,Colombia,Americas
+Colombia,,2003,1597,1572,1620,Colombia,Americas
+Colombia,,2004,1234,1210,1286,Colombia,Americas
+Colombia,,2005,1389,1389,1455,Colombia,Americas
+Colombia,,2006,502,502,514,Colombia,Americas
+Colombia,,2007,316,316,323,"Colombia, Venezuela",Americas
+Colombia,,2008,244,240,253,"Colombia, Ecuador",Americas
+Colombia,,2009,377,377,421,Colombia,Americas
+Colombia,,2010,419,419,425,Colombia,Americas
+Colombia,,2011,202,202,208,Colombia,Americas
+Colombia,,2012,211,211,310,Colombia,Americas
+Colombia,,2013,140,140,183,Colombia,Americas
+Colombia,,2014,119,119,119,Colombia,Americas
+Colombia,,2015,134,134,140,Colombia,Americas
+Colombia,,2016,30,30,30,Colombia,Americas
+Colombia,,2018,131,131,131,Colombia,Americas
+Colombia,,2019,115,115,119,"Colombia, Ecuador",Americas
+Colombia,,2020,28,28,28,"Colombia, Peru",Americas
+Colombia,,2021,113,113,123,Colombia,Americas
+Colombia,,2022,73,73,73,Colombia,Americas
+Indonesia,West Papua,2018,25,24,41,Indonesia,Asia
+Indonesia,West Papua,2021,51,24,59,Indonesia,Asia
+Indonesia,West Papua,2022,46,38,47,Indonesia,Asia
+Syria,Islamic State,2016,10903,10655,11250,Syria,Middle East
+Syria,Islamic State,2017,11920,11667,13077,Syria,Middle East
+Syria,Islamic State,2018,4347,4340,4461,Syria,Middle East
+Syria,Islamic State,2019,523,522,636,Syria,Middle East
+Syria,Islamic State,2020,1076,771,1377,Syria,Middle East
+Syria,Islamic State,2021,680,680,774,Syria,Middle East
+Syria,Islamic State,2022,347,347,399,Syria,Middle East
+Syria,Islamic State,2013,1422,1414,1642,Syria,Middle East
+Syria,Islamic State,2014,7336,6977,8114,Syria,Middle East
+Syria,Islamic State,2015,10382,9976,10713,Syria,Middle East
+Peru,,1989,1827,1810,1838,Peru,Americas
+Peru,,1990,1099,1099,1099,Peru,Americas
+Peru,,1991,1138,1138,1139,Peru,Americas
+Peru,,1992,1036,1036,1038,Peru,Americas
+Peru,,1993,672,672,677,Peru,Americas
+Peru,,1994,253,253,253,Peru,Americas
+Peru,,1995,178,178,178,Peru,Americas
+Peru,,1996,80,80,80,Peru,Americas
+Peru,,1997,93,93,99,Peru,Americas
+Peru,,1998,25,25,25,Peru,Americas
+Peru,,1999,75,75,75,Peru,Americas
+Peru,,2007,32,32,32,Peru,Americas
+Peru,,2008,40,40,40,Peru,Americas
+Peru,,2009,50,50,80,Peru,Americas
+Peru,,2010,28,28,28,Peru,Americas
+"Cambodia (Kampuchea), Thailand",Common Border,2011,29,29,36,"Cambodia (Kampuchea), Thailand",Asia
+Nigeria,,2016,164,164,180,Nigeria,Africa
+Nigeria,,2017,1062,1061,1114,Nigeria,Africa
+Nigeria,,2018,335,322,455,Nigeria,Africa
+Nigeria,,2019,328,320,384,"Nigeria, Niger",Africa
+Nigeria,,2020,465,406,527,"Nigeria, Niger",Africa
+Nigeria,,2021,276,269,306,"Nigeria, Niger",Africa
+Nigeria,,2022,428,179,582,"Nigeria, Niger",Africa
+Nigeria,,2009,405,402,835,Nigeria,Africa
+Nigeria,,2011,325,267,547,Nigeria,Africa
+Nigeria,,2012,811,811,1155,Nigeria,Africa
+Nigeria,,2013,1629,1474,2081,Nigeria,Africa
+Nigeria,,2014,4780,4725,5208,"Nigeria, Cameroon",Africa
+Nigeria,,2015,2703,2703,3025,"Nigeria, Chad, Niger",Africa
+South Africa,Namibia,1989,327,327,329,South Africa,Africa
+Mali,Macina Empire,2015,44,44,59,Mali,Africa
+Syria,,2016,32595,31454,33741,Syria,Middle East
+Syria,,2017,12203,11630,12909,"Syria, Lebanon",Middle East
+Syria,,2018,8690,8247,9167,Syria,Middle East
+Syria,,2019,6856,6709,7176,Syria,Middle East
+Syria,,2020,3513,3435,3718,"Syria, Russia (Soviet Union)",Middle East
+Syria,,2021,674,662,783,Syria,Middle East
+Syria,,2022,530,527,672,Syria,Middle East
+Syria,,2011,1203,1121,1451,Syria,Middle East
+Syria,,2012,50440,48722,55487,"Syria, Turkey",Middle East
+Syria,,2013,70506,67136,75023,"Lebanon, Iraq, Syria",Middle East
+Syria,,2014,57945,56580,60210,"Syria, Lebanon",Middle East
+Syria,,2015,39708,38321,41199,"Jordan, Syria",Middle East
+Cambodia (Kampuchea),,1989,818,818,2438,"Cambodia (Kampuchea), Thailand",Asia
+Cambodia (Kampuchea),,1990,274,268,657,Cambodia (Kampuchea),Asia
+Cambodia (Kampuchea),,1991,220,220,451,Cambodia (Kampuchea),Asia
+Cambodia (Kampuchea),,1992,118,118,118,Cambodia (Kampuchea),Asia
+Cambodia (Kampuchea),,1993,274,274,393,Cambodia (Kampuchea),Asia
+Cambodia (Kampuchea),,1994,464,404,1126,Cambodia (Kampuchea),Asia
+Cambodia (Kampuchea),,1995,694,684,1105,Cambodia (Kampuchea),Asia
+Cambodia (Kampuchea),,1996,788,788,1007,Cambodia (Kampuchea),Asia
+Cambodia (Kampuchea),,1997,415,415,649,Cambodia (Kampuchea),Asia
+Cambodia (Kampuchea),,1998,246,246,385,"Cambodia (Kampuchea), Thailand",Asia
+Nigeria,Biafra,2021,129,76,216,Nigeria,Africa
+Nigeria,Biafra,2022,88,42,168,Nigeria,Africa
+Cameroon,Ambazonia,2017,35,35,44,Cameroon,Africa
+Cameroon,Ambazonia,2018,751,747,1007,"Nigeria, Cameroon",Africa
+Cameroon,Ambazonia,2019,558,557,645,Cameroon,Africa
+Cameroon,Ambazonia,2020,401,377,457,Cameroon,Africa
+Cameroon,Ambazonia,2021,519,510,644,Cameroon,Africa
+Cameroon,Ambazonia,2022,375,317,437,Cameroon,Africa
+Guinea,,2000,217,182,522,Guinea,Africa
+Guinea,,2001,432,432,778,"Guinea, Liberia, Sierra Leone",Africa
+Philippines,Mindanao,1989,115,115,115,Philippines,Asia
+Philippines,Mindanao,1990,141,141,141,Philippines,Asia
+Philippines,Mindanao,1993,154,154,178,Philippines,Asia
+Philippines,Mindanao,1994,196,196,213,Philippines,Asia
+Philippines,Mindanao,1995,116,116,122,Philippines,Asia
+Philippines,Mindanao,1996,180,180,184,Philippines,Asia
+Philippines,Mindanao,1997,270,230,348,Philippines,Asia
+Philippines,Mindanao,1998,93,93,93,Philippines,Asia
+Philippines,Mindanao,1999,106,73,135,Philippines,Asia
+Philippines,Mindanao,2000,1427,1405,1559,Philippines,Asia
+Philippines,Mindanao,2001,675,578,737,Philippines,Asia
+Philippines,Mindanao,2002,382,382,416,Philippines,Asia
+Philippines,Mindanao,2003,820,695,1036,Philippines,Asia
+Philippines,Mindanao,2004,69,66,99,Philippines,Asia
+Philippines,Mindanao,2005,236,233,287,Philippines,Asia
+Philippines,Mindanao,2006,50,50,116,Philippines,Asia
+Philippines,Mindanao,2007,307,307,326,Philippines,Asia
+Philippines,Mindanao,2008,297,297,546,Philippines,Asia
+Philippines,Mindanao,2009,517,501,548,Philippines,Asia
+Philippines,Mindanao,2010,74,74,85,Philippines,Asia
+Philippines,Mindanao,2011,146,146,171,Philippines,Asia
+Philippines,Mindanao,2012,113,107,138,Philippines,Asia
+Philippines,Mindanao,2013,349,349,414,Philippines,Asia
+Philippines,Mindanao,2014,280,276,288,Philippines,Asia
+Philippines,Mindanao,2015,404,394,565,Philippines,Asia
+Philippines,Mindanao,2016,303,274,349,Philippines,Asia
+Philippines,Mindanao,2017,84,84,90,"Philippines, Malaysia",Asia
+Philippines,Mindanao,2018,83,83,83,Philippines,Asia
+Philippines,Mindanao,2019,35,35,35,Philippines,Asia
+Philippines,Mindanao,2020,108,108,109,Philippines,Asia
+Sudan,,1989,4253,4253,5253,"Uganda, Sudan",Africa
+Sudan,,1990,4335,4335,4335,"Uganda, Sudan",Africa
+Sudan,,1991,1317,1317,4317,"Uganda, Sudan",Africa
+Sudan,,1992,1083,1083,4083,Sudan,Africa
+Sudan,,1993,942,942,942,Sudan,Africa
+Sudan,,1994,337,337,337,Sudan,Africa
+Sudan,,1995,1000,1000,1882,Sudan,Africa
+Sudan,,1996,2289,2289,2291,Sudan,Africa
+Sudan,,1997,3709,3709,7228,Sudan,Africa
+Sudan,,1998,4891,4891,5572,Sudan,Africa
+Sudan,,1999,1408,1408,1597,Sudan,Africa
+Sudan,,2000,2841,2841,3610,Sudan,Africa
+Sudan,,2001,3408,3408,3658,Sudan,Africa
+Sudan,,2002,2021,2021,3024,Sudan,Africa
+Sudan,,2003,1999,1899,2856,Sudan,Africa
+Sudan,,2004,3278,3278,4588,Sudan,Africa
+Sudan,,2005,161,161,191,Sudan,Africa
+Sudan,,2006,1002,1002,2719,Sudan,Africa
+Sudan,,2007,217,201,222,Sudan,Africa
+Sudan,,2008,598,598,1476,Sudan,Africa
+Sudan,,2009,353,353,370,"Chad, Sudan",Africa
+Sudan,,2010,1010,1010,1888,Sudan,Africa
+Sudan,,2011,1259,1235,2077,"Ethiopia, Sudan",Africa
+Sudan,,2012,1173,1123,1803,Sudan,Africa
+Sudan,,2013,594,528,3784,Sudan,Africa
+Sudan,,2014,856,815,3386,"South Sudan, Sudan",Africa
+Sudan,,2015,1264,1264,2379,"South Sudan, Sudan",Africa
+Sudan,,2016,1309,1303,2321,Sudan,Africa
+Sudan,,2017,160,148,360,Sudan,Africa
+Sudan,,2018,243,191,500,Sudan,Africa
+Sudan,,2020,45,45,48,Sudan,Africa
+Sudan,,2021,31,31,72,Sudan,Africa
+Sudan,,2022,47,47,47,Sudan,Africa
+Sri Lanka,,1989,388,388,517,Sri Lanka,Asia
+Sri Lanka,,1990,61,61,61,Sri Lanka,Asia
+Uganda,,1989,1019,1019,1040,Uganda,Africa
+Uganda,,1990,621,621,633,Uganda,Africa
+Uganda,,1991,853,853,853,Uganda,Africa
+Uganda,,1992,72,72,72,Uganda,Africa
+Uganda,,1994,149,149,226,Uganda,Africa
+Uganda,,1995,295,295,332,"Uganda, Sudan",Africa
+Uganda,,1996,1238,1238,1584,"DR Congo (Zaire), Uganda",Africa
+Uganda,,1997,888,888,1179,"Uganda, Sudan",Africa
+Uganda,,1998,835,835,1048,"DR Congo (Zaire), Uganda",Africa
+Uganda,,1999,355,355,355,"DR Congo (Zaire), Uganda",Africa
+Uganda,,2000,388,388,407,"DR Congo (Zaire), Uganda",Africa
+Uganda,,2001,189,189,237,"DR Congo (Zaire), Uganda, Sudan",Africa
+Uganda,,2002,1086,1086,1881,"DR Congo (Zaire), Uganda, Sudan",Africa
+Uganda,,2003,642,641,1100,"Uganda, Sudan",Africa
+Uganda,,2004,1610,1609,2215,"Uganda, Sudan",Africa
+Uganda,,2005,695,695,814,"Uganda, Sudan",Africa
+Uganda,,2006,221,221,318,"DR Congo (Zaire), Uganda, Sudan",Africa
+Uganda,,2007,91,91,147,Uganda,Africa
+Uganda,,2008,53,53,66,"DR Congo (Zaire), Sudan",Africa
+Uganda,,2009,238,238,263,"Central African Republic, DR Congo (Zaire), Sudan",Africa
+Uganda,,2010,120,120,138,"Central African Republic, DR Congo (Zaire), Sudan",Africa
+Uganda,,2011,136,136,146,"South Sudan, Central African Republic, DR Congo (Zaire), Sudan",Africa
+Uganda,,2013,100,100,118,"Central African Republic, DR Congo (Zaire)",Africa
+Uganda,,2014,864,864,1033,"Central African Republic, DR Congo (Zaire)",Africa
+Uganda,,2015,197,163,228,DR Congo (Zaire),Africa
+Uganda,,2016,152,152,153,DR Congo (Zaire),Africa
+Uganda,,2017,237,237,245,DR Congo (Zaire),Africa
+Uganda,,2018,378,303,389,DR Congo (Zaire),Africa
+Uganda,,2019,165,130,173,DR Congo (Zaire),Africa
+United Kingdom,Northern Ireland,1998,29,29,29,United Kingdom,Europe
+United Kingdom,Northern Ireland,1989,38,38,39,"United Kingdom, Germany",Europe
+United Kingdom,Northern Ireland,1990,44,44,46,"Netherlands, United Kingdom, Germany",Europe
+United Kingdom,Northern Ireland,1991,26,26,27,United Kingdom,Europe
+El Salvador,,1989,4924,4924,4952,El Salvador,Americas
+El Salvador,,1990,849,849,999,El Salvador,Americas
+El Salvador,,1991,88,88,93,El Salvador,Americas
+Bangladesh,Chittagong Hill Tracts,1989,26,26,26,Bangladesh,Asia
+Bangladesh,Chittagong Hill Tracts,1990,45,45,45,Bangladesh,Asia
+Bangladesh,Chittagong Hill Tracts,1991,25,22,45,Bangladesh,Asia
+Afghanistan,Islamic State,2016,2141,2100,2544,Afghanistan,Asia
+Afghanistan,Islamic State,2017,2795,2738,3009,Afghanistan,Asia
+Afghanistan,Islamic State,2018,2842,2770,5149,Afghanistan,Asia
+Afghanistan,Islamic State,2019,1075,1045,1435,Afghanistan,Asia
+Afghanistan,Islamic State,2020,316,279,356,Afghanistan,Asia
+Afghanistan,Islamic State,2021,264,206,322,"Afghanistan, Pakistan",Asia
+Afghanistan,Islamic State,2022,252,181,403,Afghanistan,Asia
+Afghanistan,Islamic State,2015,679,615,855,Afghanistan,Asia
+Cameroon,Islamic State,2016,189,189,206,"Nigeria, Cameroon",Africa
+Cameroon,Islamic State,2019,135,129,153,Cameroon,Africa
+Cameroon,Islamic State,2021,62,56,134,Cameroon,Africa
+Cameroon,Islamic State,2015,283,283,315,"Nigeria, Cameroon",Africa
+Niger,Islamic State,2016,274,274,281,Niger,Africa
+Niger,Islamic State,2017,229,229,236,Niger,Africa
+Niger,Islamic State,2018,74,71,113,Niger,Africa
+Niger,Islamic State,2019,283,280,322,Niger,Africa
+Niger,Islamic State,2020,512,510,550,Niger,Africa
+Niger,Islamic State,2021,380,297,464,Niger,Africa
+Niger,Islamic State,2022,323,262,358,Niger,Africa
+Niger,Islamic State,2015,171,131,338,Niger,Africa
+Chad,Islamic State,2017,57,57,219,Chad,Africa
+Chad,Islamic State,2018,108,108,109,Chad,Africa
+Chad,Islamic State,2019,144,144,166,Chad,Africa
+Chad,Islamic State,2020,143,143,696,Chad,Africa
+Chad,Islamic State,2021,55,55,82,Chad,Africa
+Chad,Islamic State,2022,45,45,61,Chad,Africa
+Chad,Islamic State,2015,272,272,272,Chad,Africa
+Nigeria,Islamic State,2016,2287,2287,2348,Nigeria,Africa
+Nigeria,Islamic State,2017,817,817,1267,Nigeria,Africa
+Nigeria,Islamic State,2018,836,693,1158,Nigeria,Africa
+Nigeria,Islamic State,2019,1013,857,1597,Nigeria,Africa
+Nigeria,Islamic State,2020,1559,1297,2469,Nigeria,Africa
+Nigeria,Islamic State,2021,1597,1448,2494,Nigeria,Africa
+Nigeria,Islamic State,2022,1034,914,1738,Nigeria,Africa
+Nigeria,Islamic State,2015,2063,2060,3097,Nigeria,Africa
+Pakistan,Balochistan,2016,94,94,94,Pakistan,Asia
+Pakistan,Balochistan,2019,37,37,37,Pakistan,Asia
+Pakistan,Balochistan,2020,120,77,121,Pakistan,Asia
+Pakistan,Balochistan,2021,129,109,147,Pakistan,Asia
+Pakistan,Balochistan,2022,154,115,290,Pakistan,Asia
+Pakistan,Balochistan,2004,43,43,58,Pakistan,Asia
+Pakistan,Balochistan,2006,200,200,209,Pakistan,Asia
+Pakistan,Balochistan,2007,83,82,331,Pakistan,Asia
+Pakistan,Balochistan,2008,197,186,233,Pakistan,Asia
+Pakistan,Balochistan,2009,81,81,102,Pakistan,Asia
+Pakistan,Balochistan,2011,42,42,123,Pakistan,Asia
+Pakistan,Balochistan,2012,118,118,362,Pakistan,Asia
+Pakistan,Balochistan,2013,45,45,45,Pakistan,Asia
+Pakistan,Balochistan,2014,90,90,90,Pakistan,Asia
+Pakistan,Balochistan,2015,107,107,107,Pakistan,Asia
+Eritrea,,2003,57,57,57,Eritrea,Africa
+Eritrea,,1997,31,31,117,Eritrea,Africa
+Eritrea,,1999,25,25,239,Eritrea,Africa
+Angola,,1989,2810,2810,6283,Angola,Africa
+Angola,,1990,2558,2557,4452,Angola,Africa
+Angola,,1991,491,491,647,Angola,Africa
+Angola,,1992,2321,2321,3572,Angola,Africa
+Angola,,1993,12054,12054,23329,Angola,Africa
+Angola,,1994,3924,3920,11087,"DR Congo (Zaire), Angola",Africa
+Angola,,1995,162,162,522,Angola,Africa
+Angola,,1998,1041,1041,1516,Angola,Africa
+Angola,,1999,2273,2273,6431,"Namibia, Angola",Africa
+Angola,,2000,1000,404,3796,"Namibia, Angola",Africa
+Angola,,2001,1123,1123,2447,Angola,Africa
+Angola,,2002,465,461,465,Angola,Africa
+Yemen (North Yemen),Islamic State,2017,26,5,26,Yemen (North Yemen),Middle East
+Yemen (North Yemen),Islamic State,2020,33,11,62,Yemen (North Yemen),Middle East
+Yemen (North Yemen),Islamic State,2015,246,246,251,Yemen (North Yemen),Middle East
+Kenya,Northeastern Province and Coast,2016,49,49,83,"Somalia, Kenya",Africa
+Kenya,Northeastern Province and Coast,2017,85,83,110,Kenya,Africa
+Kenya,Northeastern Province and Coast,2018,69,59,147,Kenya,Africa
+Kenya,Northeastern Province and Coast,2019,61,60,94,Kenya,Africa
+Kenya,Northeastern Province and Coast,2020,94,94,142,Kenya,Africa
+Kenya,Northeastern Province and Coast,2021,78,78,184,"Somalia, Kenya",Africa
+Kenya,Northeastern Province and Coast,2022,72,71,148,Kenya,Africa
+Kenya,Northeastern Province and Coast,2015,42,40,117,"Somalia, Kenya",Africa
+Tanzania,Islamic State,2020,25,22,26,Tanzania,Africa
+Egypt,Islamic State,2016,355,355,359,Egypt,Middle East
+Egypt,Islamic State,2017,394,279,514,Egypt,Middle East
+Egypt,Islamic State,2018,652,502,654,Egypt,Middle East
+Egypt,Islamic State,2019,589,217,598,Egypt,Middle East
+Egypt,Islamic State,2020,527,206,538,Egypt,Middle East
+Egypt,Islamic State,2021,112,99,204,Egypt,Middle East
+Egypt,Islamic State,2022,231,214,233,Egypt,Middle East
+Egypt,Islamic State,2015,767,753,947,Egypt,Middle East
+Ethiopia,Ogaden,1993,36,36,36,Ethiopia,Africa
+Ethiopia,Ogaden,1994,50,50,50,Ethiopia,Africa
+Ethiopia,Ogaden,1996,211,211,481,"Somalia, Ethiopia",Africa
+Ethiopia,Ogaden,1998,25,6,90,Ethiopia,Africa
+Ethiopia,Ogaden,1999,50,50,640,"Somalia, Ethiopia",Africa
+Ethiopia,Ogaden,2000,25,0,855,Ethiopia,Africa
+Ethiopia,Ogaden,2001,25,25,117,Ethiopia,Africa
+Ethiopia,Ogaden,2002,25,25,637,Ethiopia,Africa
+Ethiopia,Ogaden,2003,25,25,260,Ethiopia,Africa
+Ethiopia,Ogaden,2004,25,25,525,"Somalia, Ethiopia",Africa
+Ethiopia,Ogaden,2005,58,58,695,Ethiopia,Africa
+Ethiopia,Ogaden,2006,25,0,818,Ethiopia,Africa
+Ethiopia,Ogaden,2007,152,152,737,Ethiopia,Africa
+Ethiopia,Ogaden,2008,25,25,416,Ethiopia,Africa
+Ethiopia,Ogaden,2009,473,473,995,Ethiopia,Africa
+Ethiopia,Ogaden,2010,126,123,1860,"Somalia, Ethiopia",Africa
+Ethiopia,Ogaden,2011,25,25,379,"Kenya, Ethiopia",Africa
+Ethiopia,Ogaden,2012,25,25,406,Ethiopia,Africa
+Ethiopia,Ogaden,2013,52,52,908,Ethiopia,Africa
+Ethiopia,Ogaden,2014,25,25,222,Ethiopia,Africa
+Ethiopia,Ogaden,2015,25,0,138,Ethiopia,Africa
+Ethiopia,Ogaden,2016,25,0,50,Ethiopia,Africa
+Indonesia,East Timor,1992,39,39,39,Indonesia,Asia
+Indonesia,East Timor,1997,51,51,79,Indonesia,Asia
+Indonesia,East Timor,1998,30,14,48,Indonesia,Asia
+Indonesia,East Timor,1999,26,26,30,Indonesia,Asia
+Morocco,Sahrawi Arab Democratic Republic (Western Sahara),1989,207,207,378,Morocco,Africa
+Mozambique,,2016,55,46,64,Mozambique,Africa
+Mozambique,,2018,53,47,55,Mozambique,Africa
+Mozambique,,2019,97,93,99,Mozambique,Africa
+Mozambique,,1989,1149,1144,3750,Mozambique,Africa
+Mozambique,,1990,1577,327,1577,Mozambique,Africa
+Mozambique,,1991,1326,365,2359,Mozambique,Africa
+Mozambique,,1992,309,309,445,Mozambique,Africa
+Mozambique,,2013,42,29,112,Mozambique,Africa
+Mozambique,,2014,30,22,35,Mozambique,Africa
+India,Western South East Asia,2016,47,47,69,India,Asia
+India,Western South East Asia,2017,39,39,41,India,Asia
+India,Western South East Asia,2018,27,26,28,India,Asia
+India,Western South East Asia,2015,161,98,192,India,Asia
+Afghanistan,,1989,5174,1904,17051,Afghanistan,Asia
+Afghanistan,,1990,1478,1323,2275,Afghanistan,Asia
+Afghanistan,,1991,3302,3156,3802,Afghanistan,Asia
+Afghanistan,,1992,4276,4259,5460,Afghanistan,Asia
+Afghanistan,,1993,3721,3713,7805,Afghanistan,Asia
+Afghanistan,,1994,8937,8937,11955,Afghanistan,Asia
+Afghanistan,,1995,5516,5516,6490,"Afghanistan, Pakistan",Asia
+Afghanistan,,1996,3177,3161,3638,Afghanistan,Asia
+Afghanistan,,1997,6396,4244,8281,Afghanistan,Asia
+Afghanistan,,1998,6256,6168,7698,Afghanistan,Asia
+Afghanistan,,1999,4629,4594,4945,Afghanistan,Asia
+Afghanistan,,2000,5235,4053,5511,Afghanistan,Asia
+Afghanistan,,2001,2328,2217,7657,Afghanistan,Asia
+Afghanistan,,2002,30,30,30,Afghanistan,Asia
+Afghanistan,,2003,660,646,984,Afghanistan,Asia
+Afghanistan,,2004,711,669,1245,"Afghanistan, Pakistan",Asia
+Afghanistan,,2005,1628,1424,1992,"Afghanistan, Pakistan",Asia
+Afghanistan,,2006,4734,4665,5543,"Afghanistan, Pakistan",Asia
+Afghanistan,,2007,6848,6303,8386,"Afghanistan, Pakistan",Asia
+Afghanistan,,2008,5655,5204,7189,"Afghanistan, Pakistan",Asia
+Afghanistan,,2009,6390,5659,8063,"Afghanistan, Pakistan",Asia
+Afghanistan,,2010,7038,6865,8465,"Afghanistan, Pakistan",Asia
+Afghanistan,,2011,7423,7279,8290,"Afghanistan, Pakistan",Asia
+Afghanistan,,2012,7730,7558,8541,"Afghanistan, Pakistan",Asia
+Afghanistan,,2013,8048,7612,10172,"Afghanistan, Pakistan",Asia
+Afghanistan,,2014,12351,11561,15724,"Afghanistan, Pakistan",Asia
+Afghanistan,,2015,16581,15562,19807,"Afghanistan, Pakistan",Asia
+Afghanistan,,2016,15775,14410,22162,"Afghanistan, Pakistan",Asia
+Afghanistan,,2017,16179,15404,17689,"Afghanistan, Pakistan",Asia
+Afghanistan,,2018,22837,21486,24818,"Afghanistan, Pakistan",Asia
+Afghanistan,,2019,28828,26973,33289,Afghanistan,Asia
+Afghanistan,,2020,20159,18696,21387,Afghanistan,Asia
+Afghanistan,,2021,35329,33413,39549,Afghanistan,Asia
+Afghanistan,,2022,600,383,1167,Afghanistan,Asia
+India,Tripura,1992,29,29,31,India,Asia
+India,Tripura,1997,72,52,72,India,Asia
+India,Tripura,1999,32,38,38,India,Asia
+India,Tripura,2000,61,59,64,India,Asia
+India,Tripura,2001,32,32,32,India,Asia
+India,Tripura,2002,40,40,40,India,Asia
+India,Tripura,2003,32,32,32,India,Asia
+India,Tripura,2004,26,26,26,India,Asia
+Nicaragua,,1989,526,526,533,Nicaragua,Americas
+Nicaragua,,1990,39,39,43,Nicaragua,Americas
+Somalia,,1989,379,379,4504,"Djibouti, Somalia",Africa
+Somalia,,1990,2710,1641,2962,"Djibouti, Somalia",Africa
+Somalia,,1991,8005,7230,9005,Somalia,Africa
+Somalia,,1992,1154,1154,9823,Somalia,Africa
+Somalia,,1993,25,18,25,Somalia,Africa
+Somalia,,1994,237,237,614,Somalia,Africa
+Somalia,,1995,104,97,108,Somalia,Africa
+Somalia,,1996,256,255,308,Somalia,Africa
+Somalia,,2001,228,223,268,Somalia,Africa
+Somalia,,2002,114,113,207,Somalia,Africa
+Somalia,,2006,547,463,1293,Somalia,Africa
+Somalia,,2007,1546,1528,2046,"Somalia, Kenya",Africa
+Somalia,,2008,1491,1433,2075,Somalia,Africa
+Somalia,,2009,1467,1263,1751,Somalia,Africa
+Somalia,,2010,2150,1915,2355,Somalia,Africa
+Somalia,,2011,1938,1559,2259,"Somalia, Kenya",Africa
+Somalia,,2012,2646,2470,2945,"Somalia, Kenya",Africa
+Somalia,,2013,940,760,1769,"Somalia, Kenya, Ethiopia",Africa
+Somalia,,2014,1153,905,2303,"Somalia, Kenya, Ethiopia",Africa
+Somalia,,2015,1206,927,2502,"Somalia, Kenya",Africa
+Somalia,,2016,1933,1207,3127,Somalia,Africa
+Somalia,,2017,1918,1778,2601,Somalia,Africa
+Somalia,,2018,2083,1814,2954,Somalia,Africa
+Somalia,,2019,1910,1660,2395,Somalia,Africa
+Somalia,,2020,1901,1866,2192,Somalia,Africa
+Somalia,,2021,2119,2110,2645,"Somalia, Ethiopia",Africa
+Somalia,,2022,3034,3006,4233,"Somalia, Ethiopia",Africa
+Iran,,2018,28,27,37,"Iraq, Iran",Middle East
+Iran,,2019,31,31,46,Iran,Middle East
+Iran,,2020,35,27,44,"Iraq, Iran",Middle East
+Iran,,2021,30,18,30,"Iraq, Iran",Middle East
+Iran,,1991,45,45,45,"Iraq, Iran",Middle East
+Iran,,1993,76,76,152,"Italy, Iraq, Iran, Pakistan",Middle East
+Iran,,1997,38,38,42,"Iraq, Iran",Middle East
+Iran,,1999,28,28,35,"Iraq, Iran",Middle East
+Iran,,2000,40,40,77,"Iraq, Iran",Middle East
+Iran,,2001,119,119,149,"Iraq, Iran",Middle East
+Iran,,2005,28,28,37,Iran,Middle East
+Iran,,2006,57,52,123,"Iraq, Iran",Middle East
+Iran,,2007,86,61,200,"Iraq, Iran",Middle East
+Iran,,2008,121,121,265,"Iraq, Iran, Pakistan",Middle East
+Iran,,2009,133,121,148,Iran,Middle East
+Iran,,2010,74,74,74,Iran,Middle East
+Iran,,2011,242,235,246,"Iraq, Iran",Middle East
+Liberia,,1989,27,27,27,Liberia,Africa
+Liberia,,1990,347,347,431,"Liberia, Ivory Coast",Africa
+Liberia,,2000,57,57,57,Liberia,Africa
+Liberia,,2001,341,341,341,Liberia,Africa
+Liberia,,2002,492,391,517,Liberia,Africa
+Liberia,,2003,1787,1787,1887,Liberia,Africa
+Spain,Basque,1991,45,45,45,Spain,Europe
+Tunisia,,2013,29,29,30,Tunisia,Africa
+Tunisia,,2014,50,50,60,Tunisia,Africa
+Tunisia,,2015,57,59,61,Tunisia,Africa
+India,Manipur,1993,25,25,25,India,Asia
+India,Manipur,1994,25,25,25,India,Asia
+India,Manipur,1995,25,25,25,India,Asia
+India,Manipur,1996,28,28,28,India,Asia
+India,Manipur,1998,25,25,25,India,Asia
+India,Manipur,1999,31,31,31,India,Asia
+India,Manipur,2000,60,60,64,India,Asia
+India,Manipur,2003,27,27,27,India,Asia
+India,Manipur,2004,60,60,60,India,Asia
+India,Manipur,2005,47,47,53,India,Asia
+India,Manipur,2006,73,69,75,India,Asia
+India,Manipur,2007,45,45,73,India,Asia
+India,Manipur,2008,99,99,100,India,Asia
+India,Manipur,2009,96,59,114,India,Asia
+India,Punjab/Khalistan,1989,905,905,928,India,Asia
+India,Punjab/Khalistan,1990,1839,1839,1882,India,Asia
+India,Punjab/Khalistan,1991,2673,2673,2739,India,Asia
+India,Punjab/Khalistan,1992,2390,2390,2444,India,Asia
+India,Punjab/Khalistan,1993,358,358,360,India,Asia
+Sri Lanka,Eelam,1989,145,145,145,Sri Lanka,Asia
+Sri Lanka,Eelam,1990,3561,3561,4600,Sri Lanka,Asia
+Sri Lanka,Eelam,1991,6432,6432,6787,Sri Lanka,Asia
+Sri Lanka,Eelam,1992,4091,4091,4247,Sri Lanka,Asia
+Sri Lanka,Eelam,1993,2075,2075,2347,Sri Lanka,Asia
+Sri Lanka,Eelam,1994,657,657,746,Sri Lanka,Asia
+Sri Lanka,Eelam,1995,4755,4748,5062,Sri Lanka,Asia
+Sri Lanka,Eelam,1996,3868,3868,4254,"France, Sri Lanka",Asia
+Sri Lanka,Eelam,1997,2880,2880,3959,Sri Lanka,Asia
+Sri Lanka,Eelam,1998,3762,3763,4420,Sri Lanka,Asia
+Sri Lanka,Eelam,1999,1882,1882,2616,Sri Lanka,Asia
+Sri Lanka,Eelam,2000,2525,2525,4155,Sri Lanka,Asia
+Sri Lanka,Eelam,2001,1144,1144,1145,Sri Lanka,Asia
+Sri Lanka,Eelam,2003,29,17,46,Sri Lanka,Asia
+Sri Lanka,Eelam,2005,88,88,90,Sri Lanka,Asia
+Sri Lanka,Eelam,2006,1970,1970,2845,Sri Lanka,Asia
+Sri Lanka,Eelam,2007,2494,2391,3070,Sri Lanka,Asia
+Sri Lanka,Eelam,2008,8262,8262,9917,Sri Lanka,Asia
+Sri Lanka,Eelam,2009,10165,10136,13702,Sri Lanka,Asia
+Cameroon,,2016,32,32,32,Cameroon,Africa
+Cameroon,,2017,63,63,63,Cameroon,Africa
+Cameroon,,2020,28,28,34,Cameroon,Africa
+Cameroon,,2022,31,26,43,Cameroon,Africa
+Cameroon,,2015,712,712,712,Cameroon,Africa
+Turkey,Kurdistan,1989,442,442,442,Turkey,Middle East
+Turkey,Kurdistan,1990,526,514,525,Turkey,Middle East
+Turkey,Kurdistan,1991,353,353,358,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,1992,1637,1637,1717,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,1993,2301,2301,2589,Turkey,Middle East
+Turkey,Kurdistan,1994,4105,4104,4207,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,1995,3216,3216,3311,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,1996,3942,3945,4035,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,1997,4653,4652,5874,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,1998,2068,2072,2157,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,1999,1400,1400,1477,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2000,176,176,180,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2001,132,132,147,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2002,54,54,73,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2003,82,82,85,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2004,195,195,333,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2005,263,258,294,Turkey,Middle East
+Turkey,Kurdistan,2006,225,225,276,Turkey,Middle East
+Turkey,Kurdistan,2007,499,499,521,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2008,588,550,974,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2009,147,142,162,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2010,355,346,413,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2011,592,591,759,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2012,853,853,866,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2013,31,31,35,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2015,907,902,1402,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2016,1061,1061,1071,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2017,707,707,722,"Syria, Iraq, Turkey",Middle East
+Turkey,Kurdistan,2018,894,886,902,"Iraq, Iran, Turkey",Middle East
+Turkey,Kurdistan,2019,540,540,621,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2020,367,364,383,"Iraq, Turkey",Middle East
+Turkey,Kurdistan,2021,426,416,525,"Syria, Iraq, Turkey",Middle East
+Turkey,Kurdistan,2022,575,569,591,"Iraq, Turkey",Middle East
+DR Congo (Zaire),Islamic State,2019,170,162,175,DR Congo (Zaire),Africa
+DR Congo (Zaire),Islamic State,2020,644,641,702,DR Congo (Zaire),Africa
+DR Congo (Zaire),Islamic State,2021,622,594,646,DR Congo (Zaire),Africa
+DR Congo (Zaire),Islamic State,2022,577,569,660,DR Congo (Zaire),Africa
+Togo,,2022,34,19,59,Togo,Africa
+Burkina Faso,,2018,79,70,103,Burkina Faso,Africa
+Burkina Faso,,2019,271,185,404,Burkina Faso,Africa
+Burkina Faso,,2020,352,183,359,Burkina Faso,Africa
+Burkina Faso,,2021,821,706,924,Burkina Faso,Africa
+Burkina Faso,,2022,1643,1550,1870,Burkina Faso,Africa
+Uganda,Islamic State,2022,25,25,28,Uganda,Africa
+Bangladesh,Islamic State,2016,41,41,41,Bangladesh,Asia
+Bangladesh,Islamic State,2017,47,47,48,Bangladesh,Asia
+Lebanon,Islamic State,2017,70,69,96,Lebanon,Middle East
+Lebanon,Islamic State,2014,126,126,126,Lebanon,Middle East
+Lebanon,Islamic State,2015,76,42,135,Lebanon,Middle East
+Comoros,,1989,29,29,30,Comoros,Africa
+Ethiopia,Afar,1996,25,25,25,Ethiopia,Africa
+India,Kashmir,1990,407,402,586,India,Asia
+India,Kashmir,1991,330,330,551,India,Asia
+India,Kashmir,1992,265,265,337,India,Asia
+India,Kashmir,1993,846,845,1159,India,Asia
+India,Kashmir,1994,958,955,1148,India,Asia
+India,Kashmir,1995,687,687,894,India,Asia
+India,Kashmir,1996,489,489,1232,India,Asia
+India,Kashmir,1997,533,533,555,India,Asia
+India,Kashmir,1998,576,576,701,India,Asia
+India,Kashmir,1999,864,844,883,India,Asia
+India,Kashmir,2000,2291,2278,2352,"Pakistan, India",Asia
+India,Kashmir,2001,804,733,3555,India,Asia
+India,Kashmir,2002,1498,1498,1498,India,Asia
+India,Kashmir,2003,1328,1308,1464,India,Asia
+India,Kashmir,2004,1359,1174,1391,India,Asia
+India,Kashmir,2005,1058,1055,1139,India,Asia
+India,Kashmir,2006,705,698,728,India,Asia
+India,Kashmir,2007,550,540,562,India,Asia
+India,Kashmir,2008,500,482,525,India,Asia
+India,Kashmir,2009,361,358,393,India,Asia
+India,Kashmir,2010,370,365,437,India,Asia
+India,Kashmir,2011,140,140,147,India,Asia
+India,Kashmir,2012,144,143,147,India,Asia
+India,Kashmir,2013,146,140,147,India,Asia
+India,Kashmir,2014,179,178,228,India,Asia
+India,Kashmir,2015,165,164,170,India,Asia
+India,Kashmir,2016,282,282,297,"Afghanistan, India",Asia
+India,Kashmir,2017,322,322,322,India,Asia
+India,Kashmir,2018,386,387,391,India,Asia
+India,Kashmir,2019,267,266,276,India,Asia
+India,Kashmir,2020,311,311,312,"Pakistan, India",Asia
+India,Kashmir,2021,250,247,254,"Pakistan, India",Asia
+India,Kashmir,2022,235,235,237,India,Asia
+India,Assam,1990,30,6,30,India,Asia
+India,Assam,1994,25,25,126,India,Asia
+India,Assam,1995,29,17,78,India,Asia
+India,Assam,1996,48,48,53,India,Asia
+India,Assam,1997,112,112,119,India,Asia
+India,Assam,1998,55,55,57,India,Asia
+India,Assam,1999,53,53,58,India,Asia
+India,Assam,2000,87,76,87,India,Asia
+India,Assam,2001,113,113,124,India,Asia
+India,Assam,2002,59,59,59,India,Asia
+India,Assam,2003,43,43,58,India,Asia
+India,Assam,2004,70,69,74,India,Asia
+India,Assam,2005,78,77,78,India,Asia
+India,Assam,2006,49,49,50,India,Asia
+India,Assam,2007,114,114,120,India,Asia
+India,Assam,2008,75,75,78,India,Asia
+India,Assam,2009,63,61,65,India,Asia
+India,Assam,2010,32,32,33,India,Asia
+Indonesia,Aceh,1990,72,61,127,Indonesia,Asia
+Indonesia,Aceh,1991,58,57,133,Indonesia,Asia
+Indonesia,Aceh,1999,187,179,258,Indonesia,Asia
+Indonesia,Aceh,2000,286,242,332,Indonesia,Asia
+Indonesia,Aceh,2001,278,254,306,Indonesia,Asia
+Indonesia,Aceh,2002,466,429,571,Indonesia,Asia
+Indonesia,Aceh,2003,868,839,1365,Indonesia,Asia
+Indonesia,Aceh,2004,935,932,1075,Indonesia,Asia
+Indonesia,Aceh,2005,213,213,215,Indonesia,Asia
+Panama,,1989,77,24,233,Panama,Americas
+"United States of America, Panama",,1989,843,745,2001,Panama,Americas
+Papua New Guinea,Bougainville,1990,55,55,65,Papua New Guinea,Asia
+Papua New Guinea,Bougainville,1992,35,35,55,"Solomon Islands, Papua New Guinea",Asia
+Papua New Guinea,Bougainville,1993,34,34,62,Papua New Guinea,Asia
+Papua New Guinea,Bougainville,1994,26,26,26,Papua New Guinea,Asia
+Papua New Guinea,Bougainville,1995,29,29,31,Papua New Guinea,Asia
+Papua New Guinea,Bougainville,1996,78,78,80,Papua New Guinea,Asia
+Romania,,1989,249,249,499,Romania,Europe
+Somalia,Islamic State,2019,33,33,36,Somalia,Africa
+Somalia,Islamic State,2020,41,34,46,Somalia,Africa
+Somalia,Islamic State,2021,53,53,104,Somalia,Africa
+"Kuwait, Iraq",Kuwait,1990,1058,1058,1058,Kuwait,Middle East
+"Kuwait, Iraq",Kuwait,1991,21790,21747,26203,"Kuwait, Saudi Arabia, Iraq, Philippines",Middle East
+Mali,Azawad,1990,457,457,467,Mali,Africa
+Mali,Azawad,1991,59,3,138,Mali,Africa
+Mali,Azawad,1994,106,106,106,Mali,Africa
+Mali,Azawad,2007,39,39,39,Mali,Africa
+Mali,Azawad,2008,112,112,127,Mali,Africa
+Mali,Azawad,2009,39,39,39,Mali,Africa
+Mali,Azawad,2012,131,126,309,Mali,Africa
+Mali,Azawad,2014,94,94,102,Mali,Africa
+Mali,Azawad,2015,54,53,72,Mali,Africa
+Niger,Air and Azawad,1994,50,50,90,Niger,Africa
+Rwanda,,1990,1126,1098,2338,Rwanda,Africa
+Rwanda,,1991,153,150,1977,Rwanda,Africa
+Rwanda,,1992,87,87,1390,Rwanda,Africa
+Rwanda,,1993,353,353,403,Rwanda,Africa
+Rwanda,,1994,1882,1781,2026,Rwanda,Africa
+Rwanda,,1996,90,90,390,Rwanda,Africa
+Rwanda,,1997,1081,681,1461,"Rwanda, DR Congo (Zaire)",Africa
+Rwanda,,1998,1096,1096,1901,"Rwanda, DR Congo (Zaire)",Africa
+Rwanda,,1999,315,115,315,DR Congo (Zaire),Africa
+Rwanda,,2000,155,155,294,DR Congo (Zaire),Africa
+Rwanda,,2001,2044,349,2074,Rwanda,Africa
+Rwanda,,2002,83,83,83,"Burundi, DR Congo (Zaire)",Africa
+Rwanda,,2009,1807,1703,2060,DR Congo (Zaire),Africa
+Rwanda,,2010,208,207,219,DR Congo (Zaire),Africa
+Rwanda,,2011,116,101,118,DR Congo (Zaire),Africa
+Rwanda,,2012,83,59,99,"Rwanda, DR Congo (Zaire)",Africa
+Rwanda,,2016,136,136,136,DR Congo (Zaire),Africa
+Rwanda,,2019,226,226,305,"Rwanda, DR Congo (Zaire)",Africa
+Rwanda,,2020,134,133,137,DR Congo (Zaire),Africa
+Senegal,Casamance,1990,58,58,58,Senegal,Africa
+Senegal,Casamance,1992,78,78,78,"Senegal, Guinea-Bissau",Africa
+Senegal,Casamance,1993,233,233,243,Senegal,Africa
+Senegal,Casamance,1995,299,299,303,Senegal,Africa
+Senegal,Casamance,1997,319,319,319,Senegal,Africa
+Senegal,Casamance,1998,242,242,252,Senegal,Africa
+Senegal,Casamance,2000,47,47,52,"Senegal, Guinea-Bissau",Africa
+Senegal,Casamance,2001,33,33,223,Senegal,Africa
+Senegal,Casamance,2003,39,38,39,Senegal,Africa
+Senegal,Casamance,2011,25,25,43,Senegal,Africa
+Russia (Soviet Union),Nagorno-Karabakh,1990,49,49,64,Russia (Soviet Union),Europe
+Russia (Soviet Union),Nagorno-Karabakh,1991,220,220,501,Russia (Soviet Union),Europe
+"United States of America, United Kingdom, Afghanistan",,2001,1397,1388,2075,Afghanistan,"Asia, Europe, Americas"
+Russia (Soviet Union),Azerbaijan,1990,143,29,338,Russia (Soviet Union),Europe
+Libya,Islamic State,2016,1678,1607,2720,Libya,Africa
+Libya,Islamic State,2017,96,95,121,Libya,Africa
+Libya,Islamic State,2018,44,44,45,Libya,Africa
+Libya,Islamic State,2019,43,43,43,Libya,Africa
+Libya,Islamic State,2015,118,116,121,Libya,Africa
+Trinidad and Tobago,,1990,39,32,55,Trinidad and Tobago,Americas
+Djibouti,,1991,60,60,240,Djibouti,Africa
+Djibouti,,1992,129,44,757,Djibouti,Africa
+Djibouti,,1993,33,33,107,Djibouti,Africa
+Djibouti,,1994,39,39,46,Djibouti,Africa
+Djibouti,,1999,25,25,57,Djibouti,Africa
+Georgia,,1992,71,71,76,Georgia,Europe
+Georgia,,1993,152,152,152,Georgia,Europe
+Georgia,,1991,52,52,170,Georgia,Europe
+Haiti,,2004,207,130,516,Haiti,Americas
+Haiti,,1989,48,21,57,Haiti,Americas
+Haiti,,1991,160,55,359,Haiti,Americas
+Sierra Leone,,1991,552,551,1263,Sierra Leone,Africa
+Sierra Leone,,1992,218,218,342,Sierra Leone,Africa
+Sierra Leone,,1993,415,415,1088,"Liberia, Sierra Leone",Africa
+Sierra Leone,,1994,628,628,779,Sierra Leone,Africa
+Sierra Leone,,1995,1472,1472,2052,Sierra Leone,Africa
+Sierra Leone,,1996,570,570,735,Sierra Leone,Africa
+Sierra Leone,,1997,748,747,1552,Sierra Leone,Africa
+Sierra Leone,,1998,3287,3285,4197,Sierra Leone,Africa
+Sierra Leone,,1999,3153,3153,5650,Sierra Leone,Africa
+Sierra Leone,,2000,382,382,642,Sierra Leone,Africa
+Sierra Leone,,2001,48,48,92,Sierra Leone,Africa
+Turkey,,2016,434,434,514,Turkey,Middle East
+Turkey,,1991,39,39,39,Turkey,Middle East
+Turkey,,1992,71,71,71,Turkey,Middle East
+Turkey,,1993,32,32,32,Turkey,Middle East
+Turkey,,2000,30,30,30,Turkey,Middle East
+Turkey,,2005,30,30,30,Turkey,Middle East
+Serbia (Yugoslavia),Slovenia,1991,64,64,64,Serbia (Yugoslavia),Europe
+Serbia (Yugoslavia),Croatia,1992,153,153,163,Serbia (Yugoslavia),Europe
+Serbia (Yugoslavia),Croatia,1991,2958,2885,4401,Serbia (Yugoslavia),Europe
+Algeria,,1991,34,34,34,Algeria,Africa
+Algeria,,1992,257,257,336,Algeria,Africa
+Algeria,,1993,800,800,860,Algeria,Africa
+Algeria,,1994,1916,1916,2079,Algeria,Africa
+Algeria,,1995,3008,2984,6091,Algeria,Africa
+Algeria,,1996,1084,1078,1507,Algeria,Africa
+Algeria,,1997,1403,1403,2061,Algeria,Africa
+Algeria,,1998,3029,3029,3665,Algeria,Africa
+Algeria,,1999,1031,1031,1059,Algeria,Africa
+Algeria,,2000,947,947,1026,Algeria,Africa
+Algeria,,2001,642,642,866,Algeria,Africa
+Algeria,,2002,539,539,540,Algeria,Africa
+Algeria,,2003,670,670,686,Algeria,Africa
+Algeria,,2004,451,451,467,"Niger, Algeria, Chad",Africa
+Algeria,,2005,229,228,262,"Mali, Algeria",Africa
+Algeria,,2006,255,255,286,Algeria,Africa
+Algeria,,2007,472,471,518,Algeria,Africa
+Algeria,,2008,339,339,410,Algeria,Africa
+Algeria,,2009,505,493,674,Algeria,Africa
+Algeria,,2010,236,236,276,Algeria,Africa
+Algeria,,2011,267,259,273,Algeria,Africa
+Algeria,,2012,256,250,310,Algeria,Africa
+Algeria,,2013,147,147,165,Algeria,Africa
+Algeria,,2014,107,83,147,Algeria,Africa
+Algeria,,2015,84,81,91,Algeria,Africa
+Algeria,,2016,86,82,91,Algeria,Africa
+Algeria,,2017,60,60,73,Algeria,Africa
+Algeria,,2018,33,33,37,Algeria,Africa
+Algeria,,2020,26,26,26,Algeria,Africa
+Angola,Cabinda,2016,25,9,185,Angola,Africa
+Angola,Cabinda,2017,25,16,111,Angola,Africa
+Angola,Cabinda,2019,25,10,50,"DR Congo (Zaire), Angola, Congo",Africa
+Angola,Cabinda,2020,25,11,136,"DR Congo (Zaire), Angola, Congo",Africa
+Angola,Cabinda,2022,25,6,149,"DR Congo (Zaire), Angola, Congo",Africa
+Angola,Cabinda,1991,25,6,41,Angola,Africa
+Angola,Cabinda,1992,25,2,128,Angola,Africa
+Angola,Cabinda,1994,50,4,154,Angola,Africa
+Angola,Cabinda,1995,25,3,87,Angola,Africa
+Angola,Cabinda,1996,29,6,256,Angola,Africa
+Angola,Cabinda,1997,51,6,70,Angola,Africa
+Angola,Cabinda,1998,25,13,313,Angola,Africa
+Angola,Cabinda,2002,56,32,435,Angola,Africa
+Angola,Cabinda,2003,25,22,146,Angola,Africa
+Angola,Cabinda,2004,25,8,54,Angola,Africa
+Angola,Cabinda,2007,25,0,110,Angola,Africa
+Angola,Cabinda,2009,25,1,66,Angola,Africa
+Azerbaijan,Artsakh (Nagorno-Karabakh),2016,141,141,263,"Armenia, Azerbaijan",Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),2017,36,36,37,Azerbaijan,Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),2020,7646,7548,9077,"Armenia, Azerbaijan",Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),2021,40,40,43,"Armenia, Azerbaijan",Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),2022,308,308,310,"Armenia, Azerbaijan",Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),1991,35,35,35,Azerbaijan,Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),1992,2167,2099,3635,"Armenia, Azerbaijan",Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),1993,1171,968,1801,"Armenia, Azerbaijan",Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),1994,1507,1257,3937,"Armenia, Azerbaijan",Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),1997,29,29,36,Azerbaijan,Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),1998,34,34,38,Azerbaijan,Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),2005,25,25,26,"Armenia, Azerbaijan",Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),2008,30,30,43,Azerbaijan,Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),2012,25,25,27,"Armenia, Azerbaijan",Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),2014,46,45,54,Azerbaijan,Europe
+Azerbaijan,Artsakh (Nagorno-Karabakh),2015,72,65,121,"Armenia, Azerbaijan",Europe
+Bosnia-Herzegovina,Serb,1992,16802,13900,19027,"Bosnia-Herzegovina, Serbia (Yugoslavia), Croatia",Europe
+Bosnia-Herzegovina,Serb,1993,4980,4491,6329,Bosnia-Herzegovina,Europe
+Bosnia-Herzegovina,Serb,1994,4873,4410,5609,Bosnia-Herzegovina,Europe
+Bosnia-Herzegovina,Serb,1995,8061,7722,9761,Bosnia-Herzegovina,Europe
+Croatia,Serb,1992,4034,4011,4078,"Bosnia-Herzegovina, Serbia (Yugoslavia), Croatia",Europe
+Croatia,Serb,1993,418,418,486,"Bosnia-Herzegovina, Croatia",Europe
+Croatia,Serb,1994,86,86,86,Bosnia-Herzegovina,Europe
+Croatia,Serb,1995,1132,672,2823,"Bosnia-Herzegovina, Croatia",Europe
+Egypt,,2017,103,103,160,Egypt,Middle East
+Egypt,,2018,28,28,28,Egypt,Middle East
+Egypt,,2019,48,42,54,Egypt,Middle East
+Egypt,,1993,103,103,119,Egypt,Middle East
+Egypt,,1994,145,145,157,Egypt,Middle East
+Egypt,,1995,191,191,199,"Ethiopia, Egypt",Middle East
+Egypt,,1996,85,85,99,Egypt,Middle East
+Egypt,,1997,66,66,69,Egypt,Middle East
+Egypt,,1998,27,27,29,Egypt,Middle East
+Egypt,,2014,184,184,184,Egypt,Middle East
+Georgia,Abkhazia,1992,566,566,1195,Georgia,Europe
+Georgia,Abkhazia,1993,1611,1611,2563,Georgia,Europe
+Georgia,South Ossetia,1992,134,134,137,Georgia,Europe
+Georgia,South Ossetia,2004,27,27,73,Georgia,Europe
+Georgia,South Ossetia,2008,621,621,859,Georgia,Europe
+Moldova,Dniestr,1992,585,316,632,Moldova,Europe
+Tajikistan,,1992,3355,3352,5118,Tajikistan,Asia
+Tajikistan,,1993,1395,1395,1596,"Tajikistan, Afghanistan",Asia
+Tajikistan,,1994,356,356,645,Tajikistan,Asia
+Tajikistan,,1995,368,362,649,"Tajikistan, Afghanistan",Asia
+Tajikistan,,1996,2790,2790,2869,Tajikistan,Asia
+Tajikistan,,1997,87,87,87,Tajikistan,Asia
+Tajikistan,,1998,600,600,617,Tajikistan,Asia
+Tajikistan,,2000,46,46,46,Tajikistan,Asia
+Tajikistan,,2010,98,93,244,Tajikistan,Asia
+Tajikistan,,2011,28,21,30,Tajikistan,Asia
+Azerbaijan,,1993,60,60,88,Azerbaijan,Europe
+Azerbaijan,,1995,44,44,72,Azerbaijan,Europe
+Bosnia-Herzegovina,Bihaca Krajina,1993,231,202,317,Bosnia-Herzegovina,Europe
+Bosnia-Herzegovina,Bihaca Krajina,1994,1385,1372,1659,Bosnia-Herzegovina,Europe
+Bosnia-Herzegovina,Bihaca Krajina,1995,488,487,753,"Bosnia-Herzegovina, Croatia",Europe
+Bosnia-Herzegovina,Croat,1992,80,80,80,Bosnia-Herzegovina,Europe
+Bosnia-Herzegovina,Croat,1993,7949,7672,8765,Bosnia-Herzegovina,Europe
+Bosnia-Herzegovina,Croat,1994,678,567,685,Bosnia-Herzegovina,Europe
+Russia (Soviet Union),,1993,145,145,147,Russia (Soviet Union),Europe
+Mexico,,1994,145,145,445,Mexico,Americas
+Mexico,,1996,37,37,70,Mexico,Americas
+Russia (Soviet Union),Chechnya,1994,229,229,338,Russia (Soviet Union),Europe
+Russia (Soviet Union),Chechnya,1995,1754,1754,3896,Russia (Soviet Union),Europe
+Russia (Soviet Union),Chechnya,1996,2721,2704,4027,Russia (Soviet Union),Europe
+Russia (Soviet Union),Chechnya,1999,5769,5719,12068,Russia (Soviet Union),Europe
+Russia (Soviet Union),Chechnya,2000,2907,2907,5329,Russia (Soviet Union),Europe
+Russia (Soviet Union),Chechnya,2001,791,790,1032,Russia (Soviet Union),Europe
+Russia (Soviet Union),Chechnya,2002,1289,1131,3196,"Georgia, Russia (Soviet Union)",Europe
+Russia (Soviet Union),Chechnya,2003,480,476,626,Russia (Soviet Union),Europe
+Russia (Soviet Union),Chechnya,2004,1151,1134,1304,"Russia (Soviet Union), Qatar",Europe
+Russia (Soviet Union),Chechnya,2005,682,650,735,Russia (Soviet Union),Europe
+Russia (Soviet Union),Chechnya,2006,259,259,357,Russia (Soviet Union),Europe
+Russia (Soviet Union),Chechnya,2007,146,146,217,Russia (Soviet Union),Europe
+Yemen (North Yemen),South Yemen,1994,1489,1283,3253,Yemen (North Yemen),Middle East
+Benin,,2022,30,30,33,Benin,Africa
+Algeria,Islamic State,2015,26,26,26,Algeria,Africa
+"Peru, Ecuador",Cordillera del Condor,1995,99,92,303,"Peru, Ecuador",Americas
+Pakistan,,1990,70,70,70,Pakistan,Asia
+Pakistan,,1994,38,38,38,Pakistan,Asia
+Pakistan,,1995,52,52,55,Pakistan,Asia
+Pakistan,,1996,42,42,42,Pakistan,Asia
+Pakistan,,2007,585,585,727,Pakistan,Asia
+Pakistan,,2008,2998,2980,3699,Pakistan,Asia
+Pakistan,,2009,6303,4774,6721,Pakistan,Asia
+Pakistan,,2010,5574,5322,6409,Pakistan,Asia
+Pakistan,,2011,2598,2561,2909,"Afghanistan, Pakistan",Asia
+Pakistan,,2012,2673,2673,2742,Pakistan,Asia
+Pakistan,,2013,1729,1729,1758,Pakistan,Asia
+Pakistan,,2014,2947,2945,3016,Pakistan,Asia
+Pakistan,,2015,1954,1954,1989,"Afghanistan, Pakistan",Asia
+Pakistan,,2016,526,526,534,"Afghanistan, Pakistan",Asia
+Pakistan,,2017,506,506,507,"Afghanistan, Pakistan",Asia
+Pakistan,,2018,147,147,155,"Afghanistan, Pakistan",Asia
+Pakistan,,2019,148,148,153,Pakistan,Asia
+Pakistan,,2020,186,186,186,Pakistan,Asia
+Pakistan,,2021,259,257,273,"Afghanistan, Pakistan",Asia
+Pakistan,,2022,494,492,525,"Afghanistan, Pakistan",Asia
+"Nigeria, Cameroon",Bakassi,1996,56,56,57,Cameroon,Africa
+Niger,Eastern Niger,1995,34,34,34,Niger,Africa
+Comoros,Anjouan,1997,56,56,78,Comoros,Africa
+Congo,,2016,73,73,73,Congo,Africa
+Congo,,1993,53,53,53,Congo,Africa
+Congo,,1997,10033,10033,20033,"DR Congo (Zaire), Congo",Africa
+Congo,,1998,3272,3272,3476,Congo,Africa
+Congo,,1999,626,626,1516,Congo,Africa
+Congo,,2002,167,167,171,Congo,Africa
+"Eritrea, Ethiopia",Common border,2000,50000,50000,50000,"Eritrea, Ethiopia",Africa
+"Eritrea, Ethiopia",Common border,2016,25,25,200,Eritrea,Africa
+"Eritrea, Ethiopia",Common border,1998,1000,218,1980,"Eritrea, Ethiopia",Africa
+"Eritrea, Ethiopia",Common border,1999,47192,47192,47192,"Eritrea, Ethiopia",Africa
+Guinea-Bissau,,1998,505,501,702,Guinea-Bissau,Africa
+Guinea-Bissau,,1999,199,154,225,Guinea-Bissau,Africa
+Lesotho,,1998,78,78,78,Lesotho,Africa
+Ukraine,,2014,88,88,107,Ukraine,Europe
+Serbia (Yugoslavia),Kosovo,1998,1235,651,2288,Serbia (Yugoslavia),Europe
+Serbia (Yugoslavia),Kosovo,1999,1404,1349,3074,"Serbia (Yugoslavia), Albania",Europe
+Ethiopia,Oromiya,1989,25,25,150,Ethiopia,Africa
+Ethiopia,Oromiya,1990,80,80,3036,Ethiopia,Africa
+Ethiopia,Oromiya,1991,700,700,1330,Ethiopia,Africa
+Ethiopia,Oromiya,1992,165,165,275,Ethiopia,Africa
+Ethiopia,Oromiya,1994,25,25,42,Ethiopia,Africa
+Ethiopia,Oromiya,1995,25,1,402,Ethiopia,Africa
+Ethiopia,Oromiya,1998,25,25,25,Ethiopia,Africa
+Ethiopia,Oromiya,1999,683,372,2914,"Kenya, Ethiopia",Africa
+Ethiopia,Oromiya,2000,25,25,608,Ethiopia,Africa
+Ethiopia,Oromiya,2001,25,10,876,"Kenya, Ethiopia",Africa
+Ethiopia,Oromiya,2002,25,25,1434,Ethiopia,Africa
+Ethiopia,Oromiya,2003,25,25,76,Ethiopia,Africa
+Ethiopia,Oromiya,2004,25,0,167,Ethiopia,Africa
+Ethiopia,Oromiya,2005,25,0,75,Ethiopia,Africa
+Ethiopia,Oromiya,2006,25,0,202,Ethiopia,Africa
+Ethiopia,Oromiya,2007,25,0,361,Ethiopia,Africa
+Ethiopia,Oromiya,2008,25,25,175,Ethiopia,Africa
+Ethiopia,Oromiya,2009,42,42,97,Ethiopia,Africa
+Ethiopia,Oromiya,2010,25,25,128,Ethiopia,Africa
+Ethiopia,Oromiya,2011,25,0,174,Ethiopia,Africa
+Ethiopia,Oromiya,2012,25,25,162,Ethiopia,Africa
+Ethiopia,Oromiya,2013,25,25,93,Ethiopia,Africa
+Ethiopia,Oromiya,2015,25,25,110,"Kenya, Ethiopia",Africa
+Ethiopia,Oromiya,2016,25,5,292,Ethiopia,Africa
+Ethiopia,Oromiya,2019,40,40,43,Ethiopia,Africa
+Ethiopia,Oromiya,2020,28,28,378,Ethiopia,Africa
+Ethiopia,Oromiya,2021,280,276,3774,Ethiopia,Africa
+Ethiopia,Oromiya,2022,764,652,5963,"Kenya, Ethiopia",Africa
+Russia (Soviet Union),Dagestan,1999,85,85,125,Russia (Soviet Union),Europe
+Uzbekistan,,2000,471,410,482,"Kyrgyzstan, Uzbekistan",Asia
+Uzbekistan,,2004,37,19,50,Uzbekistan,Asia
+Uzbekistan,,1999,67,64,76,"Tajikistan, Kyrgyzstan, Uzbekistan",Asia
+Central African Republic,,2017,35,35,35,Central African Republic,Africa
+Central African Republic,,2018,103,100,116,Central African Republic,Africa
+Central African Republic,,2019,51,48,53,Central African Republic,Africa
+Central African Republic,,2020,57,57,67,Central African Republic,Africa
+Central African Republic,,2021,906,743,916,Central African Republic,Africa
+Central African Republic,,2022,675,675,801,Central African Republic,Africa
+Central African Republic,,2001,195,195,295,Central African Republic,Africa
+Central African Republic,,2002,131,129,184,Central African Republic,Africa
+Central African Republic,,2006,46,44,168,Central African Republic,Africa
+Central African Republic,,2009,28,28,71,Central African Republic,Africa
+Central African Republic,,2010,25,25,105,Central African Republic,Africa
+Central African Republic,,2011,44,44,79,Central African Republic,Africa
+Central African Republic,,2012,45,45,45,Central African Republic,Africa
+Central African Republic,,2013,376,352,488,Central African Republic,Africa
+Central African Republic,,2014,136,136,148,Central African Republic,Africa
+North Macedonia,,2001,72,72,233,"Serbia (Yugoslavia), FYR, Macedonia",Europe
+United States of America,,2016,117,117,146,"Afghanistan, Pakistan",Americas
+United States of America,,2017,111,100,194,"Syria, Afghanistan, Pakistan",Americas
+United States of America,,2019,37,34,56,Afghanistan,Americas
+United States of America,,2001,1583,1538,2032,"United States of America, Afghanistan, Pakistan",Americas
+United States of America,,2002,878,864,1298,"Afghanistan, Pakistan",Americas
+United States of America,,2003,65,65,91,"Afghanistan, Pakistan, Turkey",Americas
+United States of America,,2004,378,378,952,"Saudi Arabia, Afghanistan, Pakistan",Americas
+United States of America,,2005,108,107,289,"Saudi Arabia, Afghanistan, Pakistan",Americas
+United States of America,,2006,246,246,382,"Saudi Arabia, Afghanistan, Pakistan",Americas
+United States of America,,2007,186,149,225,"Saudi Arabia, Somalia, Afghanistan, Pakistan",Americas
+United States of America,,2008,291,285,377,"Somalia, Afghanistan, Yemen (North Yemen), Pakistan",Americas
+United States of America,,2009,493,416,683,"Somalia, Afghanistan, Pakistan",Americas
+United States of America,,2010,329,288,877,"Afghanistan, Pakistan",Americas
+United States of America,,2011,203,203,513,"Somalia, Afghanistan, Pakistan",Americas
+United States of America,,2012,225,223,313,"Somalia, Afghanistan, Pakistan",Americas
+United States of America,,2013,38,35,145,"Somalia, Afghanistan, Pakistan",Americas
+United States of America,,2014,138,129,253,"Syria, Afghanistan, Pakistan",Americas
+United States of America,,2015,87,81,138,"Syria, Afghanistan, Pakistan",Americas
+Ivory Coast,,2002,624,565,661,Ivory Coast,Africa
+Ivory Coast,,2011,98,90,179,Ivory Coast,Africa
+Ivory Coast,,2004,47,47,48,Ivory Coast,Africa
+Ivory Coast,,2003,139,139,519,Ivory Coast,Africa
+"Australia, United Kingdom, Iraq, United States of America",,2003,7927,7927,13814,Iraq,"Asia, Europe, Middle East, Americas"
+India,Bodoland,1989,72,72,80,India,Asia
+India,Bodoland,1990,25,25,25,India,Asia
+India,Bodoland,1994,36,36,36,India,Asia
+India,Bodoland,1996,25,25,27,India,Asia
+India,Bodoland,1997,34,34,34,"Bhutan, India",Asia
+India,Bodoland,1998,31,31,31,India,Asia
+India,Bodoland,1999,33,33,33,India,Asia
+India,Bodoland,2001,77,77,77,India,Asia
+India,Bodoland,2002,44,44,44,India,Asia
+India,Bodoland,2003,109,109,122,India,Asia
+India,Bodoland,2004,27,27,27,India,Asia
+India,Bodoland,2009,73,69,78,India,Asia
+India,Bodoland,2010,57,57,86,India,Asia
+India,Bodoland,2013,28,26,28,India,Asia
+India,Bodoland,2014,39,33,58,India,Asia
+Myanmar (Burma),Wa,1997,130,130,130,Myanmar (Burma),Asia
+Thailand,Patani,2003,26,26,27,Thailand,Asia
+Thailand,Patani,2004,164,162,170,Thailand,Asia
+Thailand,Patani,2005,205,202,212,Thailand,Asia
+Thailand,Patani,2006,212,212,217,Thailand,Asia
+Thailand,Patani,2007,197,197,206,Thailand,Asia
+Thailand,Patani,2008,130,130,133,Thailand,Asia
+Thailand,Patani,2009,138,135,138,Thailand,Asia
+Thailand,Patani,2010,75,73,78,Thailand,Asia
+Thailand,Patani,2011,143,143,149,Thailand,Asia
+Thailand,Patani,2012,131,131,132,Thailand,Asia
+Thailand,Patani,2013,189,188,192,Thailand,Asia
+Thailand,Patani,2014,68,62,72,Thailand,Asia
+Thailand,Patani,2015,57,56,57,Thailand,Asia
+Thailand,Patani,2016,50,49,50,Thailand,Asia
+Thailand,Patani,2017,43,43,43,Thailand,Asia
+Thailand,Patani,2018,36,27,36,Thailand,Asia
+Thailand,Patani,2019,55,54,55,Thailand,Asia
+Thailand,Patani,2020,46,38,47,Thailand,Asia
+Thailand,Patani,2021,38,30,38,Thailand,Asia
+Thailand,Patani,2022,30,26,31,Thailand,Asia
+Nigeria,Northern Nigeria,2004,84,84,91,Nigeria,Africa
+Tunisia,Islamic State,2016,71,71,72,Tunisia,Africa
+Nigeria,Niger Delta,2004,67,67,137,Nigeria,Africa
+Central African Republic,Logone,2015,27,27,27,Central African Republic,Africa
+DR Congo (Zaire),Kongo Kingdom,2008,250,250,293,DR Congo (Zaire),Africa
+DR Congo (Zaire),Kongo Kingdom,2017,86,86,90,DR Congo (Zaire),Africa
+DR Congo (Zaire),Kongo Kingdom,2020,64,60,64,DR Congo (Zaire),Africa
+DR Congo (Zaire),Kongo Kingdom,2007,116,116,116,DR Congo (Zaire),Africa
+Niger,,2021,76,17,82,Niger,Africa
+Niger,,2022,165,109,183,Niger,Africa
+Niger,,1991,40,40,150,Niger,Africa
+Niger,,1992,29,29,29,Niger,Africa
+Niger,,1997,62,62,62,Niger,Africa
+Niger,,2007,81,81,97,Niger,Africa
+Niger,,2008,47,47,104,Niger,Africa
+Russia (Soviet Union),Caucasus Emirate,2007,30,30,56,Russia (Soviet Union),Europe
+Russia (Soviet Union),Caucasus Emirate,2008,404,279,453,Russia (Soviet Union),Europe
+Russia (Soviet Union),Caucasus Emirate,2009,696,551,779,Russia (Soviet Union),Europe
+Russia (Soviet Union),Caucasus Emirate,2010,418,409,634,Russia (Soviet Union),Europe
+Russia (Soviet Union),Caucasus Emirate,2011,359,358,518,"Russia (Soviet Union), Turkey",Europe
+Russia (Soviet Union),Caucasus Emirate,2012,516,514,723,Russia (Soviet Union),Europe
+Russia (Soviet Union),Caucasus Emirate,2013,321,286,535,Russia (Soviet Union),Europe
+Russia (Soviet Union),Caucasus Emirate,2014,173,173,301,Russia (Soviet Union),Europe
+Russia (Soviet Union),Caucasus Emirate,2015,30,23,33,"Syria, Russia (Soviet Union)",Europe
+India,Islamic State,2008,25,25,25,India,Asia
+"Djibouti, Eritrea",Common border,2008,35,35,44,Djibouti,Africa
+Myanmar (Burma),Kokang,2017,35,35,49,Myanmar (Burma),Asia
+Myanmar (Burma),Kokang,2021,71,71,337,Myanmar (Burma),Asia
+Myanmar (Burma),Kokang,2009,80,80,270,"Myanmar (Burma), China",Asia
+Myanmar (Burma),Kokang,2014,67,7,107,Myanmar (Burma),Asia
+Myanmar (Burma),Kokang,2015,309,307,2448,"Myanmar (Burma), China",Asia
+Mauritania,,2010,29,27,41,"Mali, Mauritania",Africa
+"Russia (Soviet Union), Ukraine",,2022,81517,57717,160778,"Poland, Russia (Soviet Union), Ukraine",Europe
+Iran,Islamic State,2017,27,27,27,Iran,Middle East
+Ukraine,Donetsk,2014,2269,2195,2644,Ukraine,Europe
+Ukraine,Lugansk,2014,1071,1048,1380,"Russia (Soviet Union), Ukraine",Europe
+Philippines,Islamic State,2016,155,90,177,Philippines,Asia
+Philippines,Islamic State,2017,1363,1336,1435,Philippines,Asia
+Philippines,Islamic State,2018,193,159,198,Philippines,Asia
+Philippines,Islamic State,2019,136,125,140,Philippines,Asia
+Philippines,Islamic State,2020,75,74,75,Philippines,Asia
+Philippines,Islamic State,2021,71,71,71,Philippines,Asia
+Philippines,Islamic State,2022,41,41,41,Philippines,Asia
+Syria,,2016,152,145,154,Syria,Middle East
+Syria,,2018,35,35,87,Syria,Middle East
+Ukraine,Novorossiya,2016,254,243,293,Ukraine,Europe
+Ukraine,Novorossiya,2017,415,399,465,Ukraine,Europe
+Ukraine,Novorossiya,2018,243,168,257,Ukraine,Europe
+Ukraine,Novorossiya,2019,311,259,311,Ukraine,Europe
+Ukraine,Novorossiya,2020,196,113,257,Ukraine,Europe
+Ukraine,Novorossiya,2021,208,174,220,Ukraine,Europe
+Ukraine,Novorossiya,2022,29,26,33,Ukraine,Europe
+Ukraine,Novorossiya,2014,1459,1435,1497,Ukraine,Europe
+Ukraine,Novorossiya,2015,1786,1696,1843,Ukraine,Europe
+Mozambique,Islamic State,2019,194,168,218,Mozambique,Africa
+Mozambique,Islamic State,2020,937,645,1259,Mozambique,Africa
+Mozambique,Islamic State,2021,715,536,1037,Mozambique,Africa
+Mozambique,Islamic State,2022,373,210,588,Mozambique,Africa
