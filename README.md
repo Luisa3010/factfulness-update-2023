@@ -39,7 +39,7 @@ Moving on to poverty. what percentage of people used to live in poverty. In fact
 
 drop with the covid pandemic afterwards back to prior level
 
-![live expectancy at birth](live_expectancy/live_expectancy_no_source.png)
+![live expectancy at birth](live_expectancy/life_expectancy_no_source.png)
 
 
 
