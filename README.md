@@ -32,14 +32,14 @@ While in the seventies only one in three girls finished primary school, today th
 
 Moving on to poverty. what percentage of people used to live in poverty. In factfulness: $1.95, but with 2011 money and here $2.15 with 2017 money. 
 
-![poverty headcount](poverty/percent_of_people_living_in_poverty.png)
+![poverty headcount](poverty/percent_of_people_living_in_poverty_no_source.png)
 
 
 ## Live Expectancy 
 
 drop with the covid pandemic afterwards back to prior level
 
-![live expectancy at birth](live_expectancy/live_expectancy.png)
+![live expectancy at birth](live_expectancy/live_expectancy_no_source.png)
 
 
 
@@ -47,10 +47,11 @@ drop with the covid pandemic afterwards back to prior level
 
 definetly a dip during the covid pandemic, but afterwards right back on track
 
-![gdp vs live expectancy](GDP/images/GDP_per_capita_dashboard_1990-2021.gif)
+![gdp vs live expectancy](GDP/images/GDP_per_capita_dashboard_1990-2021_no_source.gif)
 
 
-![gdp by country](GDP/images/GDP_by_country.png)
+![gdp by country](GDP/images/GDP_by_country_no_source.png)
+![battle deaths](battle_deaths/battle_deaths.png)
 
 
 
