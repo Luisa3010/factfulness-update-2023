@@ -22,6 +22,7 @@ So in this case it seems like our gut feeling led us astray. There is no sudden 
 
 Next, let's take a look at the number of girls finishing primary school in low-income countries. 
 ![percent_of_girls_finishing_primary_school_combined](low_income_primary_school_girls/percent_of_girls_finishing_primary_school_combined.jpg)
+
 [Data: FREE DATA FROM WORLD BANK VIA GAPMINDER.ORG]
 While during the seventies only one in three girls finished primary school, today the number has doubled to two in three. However, the rate of increase has dropped with the 10er years. But even after 2017, the number is still rising. Only the last bump from 2021 to 2022 seems a little worrying. However, it is too early to tell if this is just a little dip or the start of a downward trend.  
 
@@ -50,18 +51,21 @@ Next, let's take a look at the GDP per capita - this is pretty straightforward -
 
 
 ![gdp by country](GDP/images/GDP_by_country_no_source.png)
+
 [Data: World Bank GDP, PPP (constant 2017 international $)]
 
 With the animation, we can see the dip during the Covid pandemic as well. It shows as a little hick-up in the year 2020. In the lower-right section, I have plotted the GDP vs the life expectancy as is shown in the book - It seems like the whole world is pretty much unified and there is no major difference between the countries. In my opinion, the graphic is misleading though, as it has the GDP on a logarithmic scale. I tried to plot the GDP on a linear scale instead and - lo and behold - there is a division between more and less wealthy countries! Still, the less wealthy countries are catching up, logarithmic or linear. 
 
 ![gdp vs live expectancy](GDP/images/GDP_per_capita_dashboard_1990-2021_no_source.gif)
+
 [Data: World Bank GDP per Capita, PPP (constant 2017 international $)]
 
 ## Battle Deaths
 
-The last topic from factfulness I want to visit is the casualties from war. Here things do not look too good in recent years. There have been way more   
+The last topic from factfulness I want to visit is the casualties from war. Here things do not look too good in recent years. There have been way more deaths from war   
 
 ![battle deaths](battle_deaths/battle_deaths.png)
+
 [Data: Davies, Shawn, Therese Pettersson & Magnus Öberg (2023). Organized violence 1989-2022 and the return of conflicts between states?. Journal of Peace Research 60(4).]
 
 
