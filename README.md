@@ -46,16 +46,20 @@ When we look at the life expectancy over time we can see a steady increase. The 
 
 ## GDP
 
-There is not much to say about the total GDP it definitely took a dip during the Covid pandemic, but afterward, it got right back on track. 
-
-![gdp vs live expectancy](GDP/images/GDP_per_capita_dashboard_1990-2021_no_source.gif)
-[Data: World Bank GDP per Capita, PPP (constant 2017 international $)]
-
-With the animation, we can see the dip during the Covid pandemic as well. It shows as a little hick-up in the year 2020. In the lower-right section, I have plotted the GDP vs the life expectancy as is shown in the book - It seems like the whole world is pretty much unified and there is no major difference between the countries. In my opinion, the graphic is misleading though, as it has the GDP on a logarithmic scale. I tried to plot the GDP on a linear scale instead and - lo and behold - there is a division between more and less wealthy countries! Still, the less wealthy countries are catching up, logarithmic or linear. 
+Next, let's take a look at the GDP per capita - this is pretty straightforward - it definitely took a dip during the Covid pandemic, but afterward, it got right back on track. 
 
 
 ![gdp by country](GDP/images/GDP_by_country_no_source.png)
 [Data: World Bank GDP, PPP (constant 2017 international $)]
+
+With the animation, we can see the dip during the Covid pandemic as well. It shows as a little hick-up in the year 2020. In the lower-right section, I have plotted the GDP vs the life expectancy as is shown in the book - It seems like the whole world is pretty much unified and there is no major difference between the countries. In my opinion, the graphic is misleading though, as it has the GDP on a logarithmic scale. I tried to plot the GDP on a linear scale instead and - lo and behold - there is a division between more and less wealthy countries! Still, the less wealthy countries are catching up, logarithmic or linear. 
+
+![gdp vs live expectancy](GDP/images/GDP_per_capita_dashboard_1990-2021_no_source.gif)
+[Data: World Bank GDP per Capita, PPP (constant 2017 international $)]
+
+## Battle Deaths
+
+The last topic from factfulness I want to visit is the casualties from war. Here things do not look too good in recent years. There have been way more   
 
 ![battle deaths](battle_deaths/battle_deaths.png)
 [Data: Davies, Shawn, Therese Pettersson & Magnus Öberg (2023). Organized violence 1989-2022 and the return of conflicts between states?. Journal of Peace Research 60(4).]
