@@ -62,7 +62,7 @@ With the animation, we can see the dip during the Covid pandemic as well. It sho
 
 ## Battle Deaths
 
-The last topic from factfulness I want to visit is the casualties from war. Here things do not look too good in recent years. There have been way more deaths from war   
+The last topic from factfulness I want to visit is the casualties from war. Here, things do not look too good in recent years. Deaths from armed conflicts have been going up sharply recently. We can just hope that this is a historical hick-up, rather than a trend that will continue.    
 
 ![battle deaths](battle_deaths/battle_deaths.png)
 
